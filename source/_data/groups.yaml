@@ -38,6 +38,11 @@ parameters:
             meetup_com_url: 'https://www.meetup.com/izmirphp/'
             country: 'Turkey'
 
+        -   name: 'Laravel Katsina'
+            meetup_com_id: 
+            meetup_com_url: 'https://www.meetup.com/GDG-Katsina/'
+            country: 'Katsina'
+
         -   name: 'laravel.istanbul'
             meetup_com_id: 26609131
             meetup_com_url: 'https://www.meetup.com/laravelistanbul/'
