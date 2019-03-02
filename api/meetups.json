@@ -1,0 +1,2954 @@
+{
+    "meetups": [
+        {
+            "name": "PHPStok #1 - Vagrant vs Docker",
+            "userGroup": "PHPStok",
+            "start": "2019-03-20 18:00",
+            "city": "Białystok",
+            "country": "Poland",
+            "latitude": 53.132398,
+            "longitude": 23.1591679,
+            "url": "https://crossweb.pl/wydarzenia/phpstok-1-vagrant-vs-docker-marzec-2019/"
+        },
+        {
+            "name": "Magento Meetup Kharkiv &amp; Contribution Day, 15 — 16 марта, Харьков",
+            "userGroup": "Magento Meetup Kharkiv &amp; Contribution Day,",
+            "start": "2019-03-15 19:00",
+            "city": "Харьков",
+            "country": "Ukraine",
+            "latitude": 49.99142545,
+            "longitude": 36.272266071812,
+            "url": "https://dou.ua/calendar/25792/"
+        },
+        {
+            "name": "Безкоштовні курси програмування, 15 березня, Полтава",
+            "userGroup": "Безкоштовні курси програмування,",
+            "start": "2019-03-15 19:00",
+            "city": "Полтава",
+            "country": "Ukraine",
+            "latitude": 49.5897423,
+            "longitude": 34.5507948,
+            "url": "https://dou.ua/calendar/25699/"
+        },
+        {
+            "name": "[Kadınlara özel] WomenPress atölyesi: WordPress ile site kurulumu",
+            "userGroup": "Ankara WordPress Meetup",
+            "start": "2019-03-02 16:00",
+            "city": "Ankara",
+            "country": "Turkey",
+            "latitude": 39.921627,
+            "longitude": 32.828854,
+            "url": "https://www.meetup.com/Ankara-WordPress-Meetup/events/259293978/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-02 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/259239076/"
+        },
+        {
+            "name": "Prvo WordPress okupljanje u Novom Pazaru - #WPNP",
+            "userGroup": "WordPress Serbia",
+            "start": "2019-03-02 17:00",
+            "city": "Novi Pazar",
+            "country": "Serbia",
+            "latitude": 43.14105,
+            "longitude": 20.518332,
+            "url": "https://www.meetup.com/WordPress-Serbia/events/258963134/"
+        },
+        {
+            "name": "Let's Go: Social Hackathon",
+            "userGroup": "Salzburg Web Dev",
+            "start": "2019-03-02 17:15",
+            "city": "Puch",
+            "country": "Austria",
+            "latitude": 47.724117,
+            "longitude": 13.086338,
+            "url": "https://www.meetup.com/salzburgwebdev/events/258760397/"
+        },
+        {
+            "name": "Let's talk about WordPress over Coffee! (Casual Meetup)",
+            "userGroup": "Mumbai WordPress Meetup",
+            "start": "2019-03-03 11:30",
+            "city": "Mumbai",
+            "country": "India",
+            "latitude": 19.116165,
+            "longitude": 72.90985,
+            "url": "https://www.meetup.com/WordPressMumbai/events/259215992/"
+        },
+        {
+            "name": "Digital marketing and Instagram - 5th Prestashop MeetUp Thessaloniki",
+            "userGroup": "PrestaShop - Thessaloníki / Drama Ecommerce Meetup",
+            "start": "2019-03-03 12:00",
+            "city": "Thessaloniki",
+            "country": "Greece",
+            "latitude": 40.63834,
+            "longitude": 22.938309,
+            "url": "https://www.meetup.com/PrestaShop-Thessaloniki-Drama-Ecommerce-Meetup/events/259184313/"
+        },
+        {
+            "name": "Coffee and WordPress at Bikes Beans & Bordeaux",
+            "userGroup": "WordPress Orlando",
+            "start": "2019-03-04 08:30",
+            "city": "Orlando",
+            "country": "Florida",
+            "latitude": 28.567509,
+            "longitude": -81.34526,
+            "url": "https://www.meetup.com/WordPress-Orlando/events/258600324/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-04 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/258926531/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-04 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/259296219/"
+        },
+        {
+            "name": "WordPress March meetup: Gutenberg – from beginners to beyond",
+            "userGroup": "WordPress Wellington",
+            "start": "2019-03-04 17:30",
+            "city": "Wellington",
+            "country": "New Zealand",
+            "latitude": -41.290398,
+            "longitude": 174.77934,
+            "url": "https://www.meetup.com/WordPress-Wellington/events/259054225/"
+        },
+        {
+            "name": "Parramatta WordPress Meetup: TBA",
+            "userGroup": "WordPress Sydney",
+            "start": "2019-03-04 18:00",
+            "city": "Paris",
+            "country": "Australia",
+            "latitude": -33.808231,
+            "longitude": 151.004074,
+            "url": "https://www.meetup.com/WordPress-Sydney/events/258382611/"
+        },
+        {
+            "name": "Topic: TBD",
+            "userGroup": "Idaho PHP User Group",
+            "start": "2019-03-04 18:15",
+            "city": "Boise",
+            "country": "Idaho",
+            "latitude": 43.591309,
+            "longitude": -116.211487,
+            "url": "https://www.meetup.com/Idaho-PHP/events/258891476/"
+        },
+        {
+            "name": "Installation og vedligeholdse af WordPress",
+            "userGroup": "Wordpress Meetup Herning",
+            "start": "2019-03-04 18:30",
+            "city": "Herning",
+            "country": "Denmark",
+            "latitude": 56.1357,
+            "longitude": 8.965983,
+            "url": "https://www.meetup.com/WordPress-Meetup-Herning/events/259034456/"
+        },
+        {
+            "name": "PHP Dorset Monthly Meetup",
+            "userGroup": "PHP Dorset",
+            "start": "2019-03-04 18:30",
+            "city": "Poole",
+            "country": "United Kingdom",
+            "latitude": 50.724056,
+            "longitude": -1.906289,
+            "url": "https://www.meetup.com/PHPDorset/events/259216730/"
+        },
+        {
+            "name": "Singapore PHP User Group - March 2019",
+            "userGroup": "The Singapore PHP User Group Meetup",
+            "start": "2019-03-04 19:00",
+            "city": "Singapore",
+            "country": "Singapore",
+            "latitude": 1.343215,
+            "longitude": 103.8485,
+            "url": "https://www.meetup.com/sgphpug/events/258891402/"
+        },
+        {
+            "name": "WordCamp Montclair Planning Meeting (Not a Regular Meetup)",
+            "userGroup": "WordPress Montclair Meetup",
+            "start": "2019-03-04 19:00",
+            "city": "Montclair",
+            "country": "New Jersey",
+            "latitude": 40.811279,
+            "longitude": -74.219345,
+            "url": "https://www.meetup.com/WordPress-Montclair-Meetup/events/258969459/"
+        },
+        {
+            "name": "WordPress Meetup Rotterdam - 4 maart 2019",
+            "userGroup": "WordPress Meetup 010",
+            "start": "2019-03-04 19:00",
+            "city": "Rotterdam",
+            "country": "Netherlands",
+            "latitude": 51.930000305176,
+            "longitude": 4.4800000190735,
+            "url": "https://www.meetup.com/Rotterdam-WordPress-Meetup/events/258969549/"
+        },
+        {
+            "name": "Drupal User Group Hamburg",
+            "userGroup": "Drupal User Group Hamburg & Schleswig Holstein",
+            "start": "2019-03-04 19:00",
+            "city": "Hamburg",
+            "country": "Germany",
+            "latitude": 53.561924,
+            "longitude": 9.958671,
+            "url": "https://www.meetup.com/drupal-usergroup-hamburg/events/259304193/"
+        },
+        {
+            "name": "Cómo vender tus productos a través de Google Ads.",
+            "userGroup": "PrestaShop - Barcelona Ecommerce Meetup",
+            "start": "2019-03-05 09:00",
+            "city": "Barcelona",
+            "country": "Spain",
+            "latitude": 41.393017,
+            "longitude": 2.155918,
+            "url": "https://www.meetup.com/PrestaShop-Barcelona-Ecommerce-Meetup/events/259295620/"
+        },
+        {
+            "name": "Nashville PHP South Lunch",
+            "userGroup": "Nashville PHP",
+            "start": "2019-03-05 11:30",
+            "city": "Franklin",
+            "country": "Tennessee",
+            "latitude": 35.957516,
+            "longitude": -86.801834,
+            "url": "https://www.meetup.com/nashvillephp/events/258890414/"
+        },
+        {
+            "name": "WordPress Humenné meetup 3/2019",
+            "userGroup": "Humenné WordPress Meetup",
+            "start": "2019-03-05 18:00",
+            "city": "Humenné",
+            "country": "Slovakia",
+            "latitude": 48.934868,
+            "longitude": 21.907692,
+            "url": "https://www.meetup.com/Humenne-WordPress-Meetup/events/257584877/"
+        },
+        {
+            "name": "PrestaShop Meetup Tallinn - 05. Märts 2019",
+            "userGroup": "PrestaShop - Tallinn Ecommerce Meetup",
+            "start": "2019-03-05 18:00",
+            "city": "Tallinn",
+            "country": "Estonia",
+            "latitude": 59.409683,
+            "longitude": 24.734413,
+            "url": "https://www.meetup.com/PrestaShop-Tallinn-Ecommerce-Meetup/events/259092710/"
+        },
+        {
+            "name": "A Brief Introduction to Go",
+            "userGroup": "Frederick Web Technology Group",
+            "start": "2019-03-05 18:30",
+            "city": "Frederick",
+            "country": "Maryland",
+            "latitude": 39.41582,
+            "longitude": -77.41044,
+            "url": "https://www.meetup.com/FredWebTech/events/259197396/"
+        },
+        {
+            "name": "Special Event - Symfony User Group Hamburg",
+            "userGroup": "Symfony User Group Hamburg",
+            "start": "2019-03-05 18:30",
+            "city": "Hamburg",
+            "country": "Germany",
+            "latitude": 53.54926,
+            "longitude": 9.9954,
+            "url": "https://www.meetup.com/sfughh/events/258893036/"
+        },
+        {
+            "name": "Pinellas-side planning & kickoff",
+            "userGroup": "Tampa Bay PHP",
+            "start": "2019-03-05 18:30",
+            "city": "St Petersburg",
+            "country": "Florida",
+            "latitude": 27.771086,
+            "longitude": -82.657471,
+            "url": "https://www.meetup.com/tampa-bay-php/events/259121450/"
+        },
+        {
+            "name": "March Meetup at BeCode",
+            "userGroup": "Full Stack Brussels",
+            "start": "2019-03-05 19:00",
+            "city": "Brussels",
+            "country": "Belgium",
+            "latitude": 50.845356,
+            "longitude": 4.357286,
+            "url": "https://www.meetup.com/fullstackbrussels/events/257366980/"
+        },
+        {
+            "name": "March Meetup",
+            "userGroup": "Berlin PHP Usergroup",
+            "start": "2019-03-05 19:00",
+            "city": "Berlin",
+            "country": "Germany",
+            "latitude": 52.50038,
+            "longitude": 13.41973,
+            "url": "https://www.meetup.com/Berlin-PHP-Usergroup/events/258924959/"
+        },
+        {
+            "name": "Meetup Drupal Marseille mars 2019",
+            "userGroup": "Drupal France et Francophonie",
+            "start": "2019-03-05 19:00",
+            "city": "Marseille",
+            "country": "France",
+            "latitude": 43.30938,
+            "longitude": 5.390171,
+            "url": "https://www.meetup.com/drupal-france-francophonie/events/253921046/"
+        },
+        {
+            "name": "WordPress Meetup Leipzig - #31 - WordPress übersetzen",
+            "userGroup": "WordPress Meetup Leipzig",
+            "start": "2019-03-05 19:00",
+            "city": "Leipzig",
+            "country": "Germany",
+            "latitude": 51.332104,
+            "longitude": 12.37352,
+            "url": "https://www.meetup.com/Leipzig-WordPress-Meetup/events/258316414/"
+        },
+        {
+            "name": "Laravel Berlin - March 2019 -  Docker for Development",
+            "userGroup": "Laravel Group Berlin",
+            "start": "2019-03-05 19:00",
+            "city": "Berlin",
+            "country": "Germany",
+            "latitude": 52.50032,
+            "longitude": 13.433043,
+            "url": "https://www.meetup.com/laravel-berlin/events/259042507/"
+        },
+        {
+            "name": "Drupal Meetup Málaga - Marzo 2019",
+            "userGroup": "Drupal Málaga",
+            "start": "2019-03-05 19:00",
+            "city": "Málaga",
+            "country": "Spain",
+            "latitude": 36.715496,
+            "longitude": -4.423817,
+            "url": "https://www.meetup.com/DrupalMalaga/events/259356964/"
+        },
+        {
+            "name": "PHPSpec: a php toolset to drive emergent design by specification",
+            "userGroup": "#pugRomagna: PHP User Group Romagnolo",
+            "start": "2019-03-05 20:30",
+            "city": "Rimini",
+            "country": "Italy",
+            "latitude": 44.066086,
+            "longitude": 12.571594,
+            "url": "https://www.meetup.com/PUG-Romagna-PHP-User-Group-Romagnolo/events/258922922/"
+        },
+        {
+            "name": "Laracon Online",
+            "userGroup": "Louisville Laravel Meetup",
+            "start": "2019-03-06 08:00",
+            "city": "Louisville",
+            "country": "Colorado",
+            "latitude": 39.976192,
+            "longitude": -105.131905,
+            "url": "https://www.meetup.com/Louisville-Laravel-Meetup/events/259299565/"
+        },
+        {
+            "name": "Laracon Online Viewing Party",
+            "userGroup": "Columbus PHP Meetup",
+            "start": "2019-03-06 09:00",
+            "city": "Columbus",
+            "country": "Ohio",
+            "latitude": 39.958855,
+            "longitude": -83.01121,
+            "url": "https://www.meetup.com/phpphp/events/257929631/"
+        },
+        {
+            "name": "Laracon Online Viewing Party 2019 & HACK Reunion",
+            "userGroup": "Meetup Laravel Bari",
+            "start": "2019-03-06 10:30",
+            "city": "Bari",
+            "country": "Italy",
+            "latitude": 41.116676,
+            "longitude": 16.85038,
+            "url": "https://www.meetup.com/Meetup-Laravel-Bari/events/259296141/"
+        },
+        {
+            "name": "PHP and Laravel monthly meetup",
+            "userGroup": "Chattanooga PHP Developers",
+            "start": "2019-03-06 12:00",
+            "city": "Chattanooga",
+            "country": "Tennessee",
+            "latitude": 35.105934,
+            "longitude": -85.33305,
+            "url": "https://www.meetup.com/chattanoogaphp/events/258728700/"
+        },
+        {
+            "name": "Meetup goes Laracon Online",
+            "userGroup": "Laravel Hamburg",
+            "start": "2019-03-06 13:30",
+            "city": "Hamburg",
+            "country": "Germany",
+            "latitude": 53.585682,
+            "longitude": 10.006769,
+            "url": "https://www.meetup.com/Laravel-Hamburg/events/259060055/"
+        },
+        {
+            "name": "Laracon Online 2019 LIVE STREAM",
+            "userGroup": "Laravel Vienna Meetup",
+            "start": "2019-03-06 15:00",
+            "city": "Vienna",
+            "country": "Austria",
+            "latitude": 48.206123,
+            "longitude": 16.37332,
+            "url": "https://www.meetup.com/Laravel-Frameworkers-Vienna/events/257955683/"
+        },
+        {
+            "name": "Laracon Online Cape Town Viewing Party",
+            "userGroup": "Cape Town PHP Group",
+            "start": "2019-03-06 17:00",
+            "city": "Cape Town",
+            "country": "South Africa",
+            "latitude": -34.00339,
+            "longitude": 18.50848,
+            "url": "https://www.meetup.com/Cape-Town-PHP-Group/events/258895274/"
+        },
+        {
+            "name": "Presentation Meetup - Laravel Collections and Eloquent",
+            "userGroup": "Kansas City's PHP User Group",
+            "start": "2019-03-06 18:00",
+            "city": "Kansas City",
+            "country": "Missouri",
+            "latitude": 39.03627,
+            "longitude": -94.574936,
+            "url": "https://www.meetup.com/kcphpug/events/258736459/"
+        },
+        {
+            "name": "WordPress Brno Pokec 2019 #02",
+            "userGroup": "WordPress Brno Meetups",
+            "start": "2019-03-06 18:00",
+            "city": "Brno",
+            "country": "Czech Republic",
+            "latitude": 49.20052,
+            "longitude": 16.603132,
+            "url": "https://www.meetup.com/WordPress-Brno-Meetups/events/259152657/"
+        },
+        {
+            "name": "WordPress Meetup: WordCamp Nordic warm-up",
+            "userGroup": "WordPress Helsinki",
+            "start": "2019-03-06 18:00",
+            "city": "Helsinki",
+            "country": "Finland",
+            "latitude": 60.167797,
+            "longitude": 24.939669,
+            "url": "https://www.meetup.com/WPHelsinki/events/250064931/"
+        },
+        {
+            "name": "WPNYC Help Desk",
+            "userGroup": "WordPress NYC Meetup Group",
+            "start": "2019-03-06 18:00",
+            "city": "New York",
+            "country": "New York",
+            "latitude": 40.723637,
+            "longitude": -74.0026,
+            "url": "https://www.meetup.com/WordPressNYC/events/259155529/"
+        },
+        {
+            "name": "March 2019 Meetup",
+            "userGroup": "The Ottawa WordPress Group",
+            "start": "2019-03-06 18:00",
+            "city": "Ottawa",
+            "country": "Canada",
+            "latitude": 45.429367,
+            "longitude": -75.69252,
+            "url": "https://www.meetup.com/The-Ottawa-WordPress-Group/events/258729141/"
+        },
+        {
+            "name": "Use the power of the command line with valet, wp-cli, ssh and shell scripts",
+            "userGroup": "Asheville Area WordPress Group",
+            "start": "2019-03-06 18:00",
+            "city": "Asheville",
+            "country": "North Carolina",
+            "latitude": 35.597885,
+            "longitude": -82.5513,
+            "url": "https://www.meetup.com/Asheville-Area-WordPress-Group/events/258276786/"
+        },
+        {
+            "name": "WordPress NoVa/Arlington: Question And Answer Meetup",
+            "userGroup": "WordPress DC",
+            "start": "2019-03-06 18:30",
+            "city": "Arlington",
+            "country": "Virginia",
+            "latitude": 38.881832,
+            "longitude": -77.110664,
+            "url": "https://www.meetup.com/wordpressdc/events/259274501/"
+        },
+        {
+            "name": "March WordPress Meetup Vienna",
+            "userGroup": "Vienna WordPress Meetup",
+            "start": "2019-03-06 18:30",
+            "city": "Vienna",
+            "country": "Austria",
+            "latitude": 48.19644,
+            "longitude": 16.359415,
+            "url": "https://www.meetup.com/Vienna-WordPress-Meetup/events/259357500/"
+        },
+        {
+            "name": "Au-delà du Scrum : pour un meilleur travail d'équipe",
+            "userGroup": "Laravel Montreal",
+            "start": "2019-03-06 18:30",
+            "city": "Montréal",
+            "country": "Canada",
+            "latitude": 45.500271,
+            "longitude": -73.560379,
+            "url": "https://www.meetup.com/Laravel-Montreal/events/259282482/"
+        },
+        {
+            "name": "Monthly OXDUG - meetup",
+            "userGroup": "Oxford Drupal Users' Group",
+            "start": "2019-03-06 19:00",
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "latitude": 51.752159,
+            "longitude": -1.261906,
+            "url": "https://www.meetup.com/oxduguk/events/258650591/"
+        },
+        {
+            "name": "Laracon Online 2019",
+            "userGroup": "Laravel Switzerland",
+            "start": "2019-03-06 19:00",
+            "city": "Luzern",
+            "country": "Switzerland",
+            "latitude": 47.04744,
+            "longitude": 8.307125,
+            "url": "https://www.meetup.com/Laravel-Switzerland/events/258526602/"
+        },
+        {
+            "name": "Blogging 101 con WordPress",
+            "userGroup": "Cochabamba WordPress Meetup",
+            "start": "2019-03-06 19:00",
+            "city": "Cochabamba",
+            "country": "Bolivia",
+            "latitude": -17.36965,
+            "longitude": -66.162476,
+            "url": "https://www.meetup.com/Cochabamba-WordPress-Meetup/events/259307409/"
+        },
+        {
+            "name": "WordPress Meetup Marzo - Automatización de comunicaciones para e-commerce",
+            "userGroup": "WordPress Buenos Aires",
+            "start": "2019-03-06 19:00",
+            "city": "Buenos Aires",
+            "country": "Argentina",
+            "latitude": -34.603683,
+            "longitude": -58.381557,
+            "url": "https://www.meetup.com/wordpress-buenosaires/events/259316327/"
+        },
+        {
+            "name": "MidCamp 2019 Planning Meeting",
+            "userGroup": "Drupal Chicago",
+            "start": "2019-03-06 19:00",
+            "city": "Chicago",
+            "country": "Illinois",
+            "latitude": 41.95468,
+            "longitude": -87.693954,
+            "url": "https://www.meetup.com/drupalchicago/events/259171646/"
+        },
+        {
+            "name": "WordPress Meetup #28: 內容營銷 及 如何製作吸引的圖片 (廣東話 Cantonese)",
+            "userGroup": "Hong Kong WordPress Meetup",
+            "start": "2019-03-06 19:00",
+            "city": "Hong Kong",
+            "country": "Hong Kong",
+            "latitude": 22.33712,
+            "longitude": 114.148735,
+            "url": "https://www.meetup.com/Hong-Kong-WordPress-Meetup/events/259266377/"
+        },
+        {
+            "name": "Laravel Dublin",
+            "userGroup": "Laravel Dublin",
+            "start": "2019-03-06 19:00",
+            "city": "Dublin",
+            "country": "Ireland",
+            "latitude": 53.349758,
+            "longitude": -6.249187,
+            "url": "https://www.meetup.com/Laravel-Vuejs-Dublin/events/259262717/"
+        },
+        {
+            "name": "Primer Meetup de Prestashop en 2019!",
+            "userGroup": "PrestaShop Madrid",
+            "start": "2019-03-06 19:30",
+            "city": "Madrid",
+            "country": "Spain",
+            "latitude": 40.426502,
+            "longitude": -3.689286,
+            "url": "https://www.meetup.com/Prestashop-Madrid-Ecommerce-Meetup/events/259089271/"
+        },
+        {
+            "name": "Drupal Limerick Meetup",
+            "userGroup": "Drupal Limerick",
+            "start": "2019-03-06 20:00",
+            "city": "Limerick",
+            "country": "Ireland",
+            "latitude": 52.667892,
+            "longitude": -8.619088,
+            "url": "https://www.meetup.com/drupal-limerick/events/259372616/"
+        },
+        {
+            "name": "Laracon Online 2019 group viewing",
+            "userGroup": "Laravel Hamilton NZ",
+            "start": "2019-03-07 03:45",
+            "city": "Hamilton",
+            "country": "New Zealand",
+            "latitude": -37.791122,
+            "longitude": 175.28638,
+            "url": "https://www.meetup.com/Laravel-Hamilton-NZ/events/258146750/"
+        },
+        {
+            "name": "Drupal Mountain Camp 2019 - Open Source on top of the World - Davos",
+            "userGroup": "Zurich Drupal User Group Meetup",
+            "start": "2019-03-07 08:00",
+            "city": "Davos Platz",
+            "country": "Switzerland",
+            "latitude": 46.80041,
+            "longitude": 9.831759,
+            "url": "https://www.meetup.com/Zurich-Drupal-Meetup/events/257927884/"
+        },
+        {
+            "name": "SCaLE 17x",
+            "userGroup": "Los Angeles Drupal",
+            "start": "2019-03-07 09:00",
+            "city": "Pasadena",
+            "country": "California",
+            "latitude": 34.143883,
+            "longitude": -118.14454,
+            "url": "https://www.meetup.com/ladrupal/events/259345797/"
+        },
+        {
+            "name": "Drupal Coworking Day",
+            "userGroup": "München Drupal User Group Meetup",
+            "start": "2019-03-07 09:00",
+            "city": "München",
+            "country": "Germany",
+            "latitude": 48.124424,
+            "longitude": 11.607309,
+            "url": "https://www.meetup.com/Munchen-Drupal-User-Group-Meetup/events/259386479/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-07 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/259387936/"
+        },
+        {
+            "name": "WordPress Workshop for Kids (free)",
+            "userGroup": "WordPress Helsinki",
+            "start": "2019-03-07 14:00",
+            "city": "Espoo",
+            "country": "Finland",
+            "latitude": 60.18894,
+            "longitude": 24.83012,
+            "url": "https://www.meetup.com/WPHelsinki/events/259359503/"
+        },
+        {
+            "name": "Let's Go: Coding Thursday zu Openshift",
+            "userGroup": "Salzburg Web Dev",
+            "start": "2019-03-07 15:00",
+            "city": "Puch",
+            "country": "Austria",
+            "latitude": 47.724117,
+            "longitude": 13.086338,
+            "url": "https://www.meetup.com/salzburgwebdev/events/258760336/"
+        },
+        {
+            "name": "WooCommerce Basics",
+            "userGroup": "WordPress Lake County (IL) Meetup Group",
+            "start": "2019-03-07 17:30",
+            "city": "Grayslake",
+            "country": "Illinois",
+            "latitude": 42.34606,
+            "longitude": -88.004456,
+            "url": "https://www.meetup.com/wordpress-lake-county/events/259093845/"
+        },
+        {
+            "name": "Drugi WordPress Meetup u Subotici - #WPSU",
+            "userGroup": "WordPress Serbia",
+            "start": "2019-03-07 18:00",
+            "city": "Subotica",
+            "country": "Serbia",
+            "latitude": 46.1006,
+            "longitude": 19.666866,
+            "url": "https://www.meetup.com/WordPress-Serbia/events/259329215/"
+        },
+        {
+            "name": "First ever API the Docs Tokyo",
+            "userGroup": "Dev Japan",
+            "start": "2019-03-07 18:00",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 35.660385,
+            "longitude": 139.72922,
+            "url": "https://www.meetup.com/devjapan/events/257985872/"
+        },
+        {
+            "name": "I Am PHP and So Can You!",
+            "userGroup": "PHP Vegas",
+            "start": "2019-03-07 18:00",
+            "city": "Las Vegas",
+            "country": "Nevada",
+            "latitude": 36.065964,
+            "longitude": -115.21252,
+            "url": "https://www.meetup.com/PHP-Vegas/events/258910858/"
+        },
+        {
+            "name": "[Bonanova] Meetup/Taller WordPress seguro, desde la instalación a su uso.",
+            "userGroup": "WordPress Barcelona",
+            "start": "2019-03-07 18:30",
+            "city": "Barcelona",
+            "country": "Spain",
+            "latitude": 41.40855,
+            "longitude": 2.129902,
+            "url": "https://www.meetup.com/wordpressbcn/events/259122809/"
+        },
+        {
+            "name": "Rencontre mars 2019 - Async PHP et top 10 des croc-en-jambes PHP",
+            "userGroup": "PHP Quebec",
+            "start": "2019-03-07 18:30",
+            "city": "Montreal",
+            "country": "Canada",
+            "latitude": 45.505154,
+            "longitude": -73.55682,
+            "url": "https://www.meetup.com/PHPQuebec/events/259345252/"
+        },
+        {
+            "name": "Tbilisi Ecommerce, Laravel and Magento meetup.",
+            "userGroup": "Tbilisi E-commerce and Magento meetup",
+            "start": "2019-03-07 19:00",
+            "city": "T'bilisi",
+            "country": "Georgia",
+            "latitude": 41.706287,
+            "longitude": 44.783585,
+            "url": "https://www.meetup.com/Tbilisi-E-commerce-and-Magento-meetup/events/258413646/"
+        },
+        {
+            "name": "AtlantaPHP March 2019 Meeting",
+            "userGroup": "AtlantaPHP Meetup Group",
+            "start": "2019-03-07 19:00",
+            "city": "Atlanta",
+            "country": "Georgia",
+            "latitude": 33.885357,
+            "longitude": -84.46116,
+            "url": "https://www.meetup.com/atlantaphp/events/259350530/"
+        },
+        {
+            "name": "Vilnius PHP",
+            "userGroup": "Vilnius PHP Meetups",
+            "start": "2019-03-07 19:00",
+            "city": "Vilnius",
+            "country": "Lithuania",
+            "latitude": 54.699936,
+            "longitude": 25.312248,
+            "url": "https://www.meetup.com/vilniusphp/events/259097857/"
+        },
+        {
+            "name": "PHP London March 2019",
+            "userGroup": "PHP London",
+            "start": "2019-03-07 19:00",
+            "city": "London",
+            "country": "United Kingdom",
+            "latitude": 51.517307,
+            "longitude": -0.108527,
+            "url": "https://www.meetup.com/phplondon/events/259357510/"
+        },
+        {
+            "name": "Test automation and pipelines: one step at a time",
+            "userGroup": "PHPMiNDS",
+            "start": "2019-03-07 19:00",
+            "city": "Nottingham",
+            "country": "United Kingdom",
+            "latitude": 52.951992,
+            "longitude": -1.14304,
+            "url": "https://www.meetup.com/PHPMiNDS-in-Nottingham/events/259400907/"
+        },
+        {
+            "name": "Treffen der Drupal User Group Berlin",
+            "userGroup": "Drupal User Group Berlin",
+            "start": "2019-03-07 19:30",
+            "city": "Berlin",
+            "country": "Germany",
+            "latitude": 52.504841,
+            "longitude": 13.313151,
+            "url": "https://www.meetup.com/Drupal-User-Group-Berlin/events/259166336/"
+        },
+        {
+            "name": "PHP Meetup March/ Continuous Integration & Deployment by Frank Klein Koerkamp",
+            "userGroup": "GroningenPHP",
+            "start": "2019-03-07 19:30",
+            "city": "Groningen",
+            "country": "Netherlands",
+            "latitude": 53.21425,
+            "longitude": 6.569179,
+            "url": "https://www.meetup.com/GroningenPHP/events/255135217/"
+        },
+        {
+            "name": "DrupalAmsterdam Coworking (Second Friday /month)",
+            "userGroup": "Drupal Amsterdam",
+            "start": "2019-03-08 09:30",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "latitude": 52.353878,
+            "longitude": 4.90211,
+            "url": "https://www.meetup.com/Drupal-Amsterdam/events/259417048/"
+        },
+        {
+            "name": "1° 广州跨境電商 x Prestashop 开源電商 x 電商的未來發展",
+            "userGroup": "PrestaShop - Hong Kong / Greater Bay Area China",
+            "start": "2019-03-08 15:00",
+            "city": "Guangzhou",
+            "country": "China",
+            "latitude": 23.12911,
+            "longitude": 113.26438,
+            "url": "https://www.meetup.com/PrestaShop-Hong-Kong-Ecommerce-Meetup/events/258460495/"
+        },
+        {
+            "name": "Journée meetup - WordPress - Meetup Day",
+            "userGroup": "Geneva WordPress Meetup Group",
+            "start": "2019-03-09 08:30",
+            "city": "Genève",
+            "country": "Switzerland",
+            "latitude": 46.20695,
+            "longitude": 6.135527,
+            "url": "https://www.meetup.com/geneva-wordpress/events/256964267/"
+        },
+        {
+            "name": "Growth Marketing para Wordpress",
+            "userGroup": "WordPress Mexico",
+            "start": "2019-03-09 10:00",
+            "city": "Mexico DF",
+            "country": "Mexico",
+            "latitude": 19.41214,
+            "longitude": -99.18052,
+            "url": "https://www.meetup.com/WordPress-Mexico/events/259367929/"
+        },
+        {
+            "name": "Rencontre e-commerce PrestaShop à Yaoundé (Cameroun)",
+            "userGroup": "PrestaShop - Yaoundé Ecommerce Meetup",
+            "start": "2019-03-09 13:00",
+            "city": "Yaounde",
+            "country": "Cameroon",
+            "latitude": 3.954719,
+            "longitude": 11.532105,
+            "url": "https://www.meetup.com/PrestaShop-Yaounde-Ecommerce-Meetup/events/259057049/"
+        },
+        {
+            "name": "Gifu WordPress Meetup #8 「ページコンテンツを作る際に気をつけること」",
+            "userGroup": "Gifu WordPress Meetup",
+            "start": "2019-03-09 13:30",
+            "city": "岐阜県",
+            "country": "Japan",
+            "latitude": 35.42732,
+            "longitude": 136.75983,
+            "url": "https://www.meetup.com/Gifu-WordPress-Meetup/events/258863987/"
+        },
+        {
+            "name": "Meetup PrestaShop Abidjan",
+            "userGroup": "PrestaShop - Abidjan Ecommerce Meetup",
+            "start": "2019-03-09 14:00",
+            "city": "Abidjan",
+            "country": "Ivory Coast",
+            "latitude": 5.30384,
+            "longitude": -3.993989,
+            "url": "https://www.meetup.com/PrestaShop-Abidjan-Ecommerce-Meetup/events/258786309/"
+        },
+        {
+            "name": "八王子WordPressミートアップ（旧・八王子WordPressもくもく会）",
+            "userGroup": "Tokyo WordPress Meetup",
+            "start": "2019-03-09 14:00",
+            "city": "Hachioji",
+            "country": "Japan",
+            "latitude": 35.657875,
+            "longitude": 139.34032,
+            "url": "https://www.meetup.com/Tokyo-WordPress-Meetup/events/258251282/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-09 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbmb/"
+        },
+        {
+            "name": "[神戸]Kansai WordPress Meetup #5 WordPress 5.1 “Betty” って、どんなん？",
+            "userGroup": "Kansai WordPress Meetup",
+            "start": "2019-03-10 14:00",
+            "city": "Hyōgo",
+            "country": "Japan",
+            "latitude": 34.68931,
+            "longitude": 135.19049,
+            "url": "https://www.meetup.com/Kansai-WordPress-Meetup/events/259286988/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-11 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/cdfdqqyzfbpb/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-11 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbpb/"
+        },
+        {
+            "name": "WordPress and eCommerce",
+            "userGroup": "WordPress Orlando",
+            "start": "2019-03-11 18:30",
+            "city": "Orlando",
+            "country": "Florida",
+            "latitude": 28.560766,
+            "longitude": -81.342476,
+            "url": "https://www.meetup.com/WordPress-Orlando/events/259088752/"
+        },
+        {
+            "name": "Dependency Management in PHP",
+            "userGroup": "Chicago PHP User Group",
+            "start": "2019-03-11 18:30",
+            "city": "Chicago",
+            "country": "Illinois",
+            "latitude": 41.878235,
+            "longitude": -87.63422,
+            "url": "https://www.meetup.com/Chicago-PHP-User-Group/events/258700617/"
+        },
+        {
+            "name": "35. Magento-Stammtisch Aachen - neue Location!",
+            "userGroup": "Magento-Stammtisch Aachen",
+            "start": "2019-03-11 19:00",
+            "city": "Aachen",
+            "country": "Germany",
+            "latitude": 50.78041,
+            "longitude": 6.127681,
+            "url": "https://www.meetup.com/Magento-Stammtisch-Aachen/events/258062460/"
+        },
+        {
+            "name": "Help Desk - Bring Your Laptop, Yourself and Your WordPress Problems",
+            "userGroup": "WordPress Montclair Meetup",
+            "start": "2019-03-11 19:00",
+            "city": "Montclair",
+            "country": "New Jersey",
+            "latitude": 40.811279,
+            "longitude": -74.219345,
+            "url": "https://www.meetup.com/WordPress-Montclair-Meetup/events/258852233/"
+        },
+        {
+            "name": "First Laravel meetup in 2019 : CPH",
+            "userGroup": "LaravelCPH",
+            "start": "2019-03-12 17:30",
+            "city": "København",
+            "country": "Denmark",
+            "latitude": 55.6703,
+            "longitude": 12.585456,
+            "url": "https://www.meetup.com/laravel-cph/events/256728991/"
+        },
+        {
+            "name": "Monthly PHP Meetup",
+            "userGroup": "Nashville PHP",
+            "start": "2019-03-12 18:00",
+            "city": "Nashville",
+            "country": "Tennessee",
+            "latitude": 36.1924,
+            "longitude": -86.79411,
+            "url": "https://www.meetup.com/nashvillephp/events/257961742/"
+        },
+        {
+            "name": "Breaking WordPress News",
+            "userGroup": "The WordPress RI Meetup Group - Since 2009",
+            "start": "2019-03-12 18:00",
+            "city": "Pawtucket",
+            "country": "Rhode Island",
+            "latitude": 41.88252,
+            "longitude": -71.378784,
+            "url": "https://www.meetup.com/WordPressRI/events/258689351/"
+        },
+        {
+            "name": "Introducción a Laravel Passport + Como usar Doctrine ORM en Laravel",
+            "userGroup": "PHP Baires",
+            "start": "2019-03-12 18:00",
+            "city": "CABA",
+            "country": "Argentina",
+            "latitude": -34.621075,
+            "longitude": -58.381596,
+            "url": "https://www.meetup.com/phpbaires-devs/events/259393506/"
+        },
+        {
+            "name": "March WordPress Meetup",
+            "userGroup": "The Vancouver WordPress Meetup Group",
+            "start": "2019-03-12 18:00",
+            "city": "Vancouver",
+            "country": "Canada",
+            "latitude": 49.28196,
+            "longitude": -123.10866,
+            "url": "https://www.meetup.com/Vancouver-WordPress-Meetup-Group/events/258907572/"
+        },
+        {
+            "name": "DeventerPHP - CQRS and Event-Sourcing with Prooph",
+            "userGroup": "DeventerPHP",
+            "start": "2019-03-12 18:00",
+            "city": "Deventer",
+            "country": "Netherlands",
+            "latitude": 52.236748,
+            "longitude": 6.19297,
+            "url": "https://www.meetup.com/DeventerPHP/events/256093637/"
+        },
+        {
+            "name": "All your APIs are belong to us",
+            "userGroup": "Göteborg Laravel Meetup",
+            "start": "2019-03-12 18:00",
+            "city": "Göteborg",
+            "country": "Sweden",
+            "latitude": 57.703335,
+            "longitude": 11.965613,
+            "url": "https://www.meetup.com/Goteborg-Laravel-Meetup-Fully-Studios/events/259266262/"
+        },
+        {
+            "name": "Drupal Brisbane March 2019 Meetup: GDPR, Group module.",
+            "userGroup": "Drupal Brisbane",
+            "start": "2019-03-12 18:30",
+            "city": "Brisbane",
+            "country": "Australia",
+            "latitude": -27.459999084473,
+            "longitude": 153.02000427246,
+            "url": "https://www.meetup.com/Drupal-Brisbane/events/257805659/"
+        },
+        {
+            "name": "Treffen der PHP-Usergroup Hamburg",
+            "userGroup": "PHP-Usergroup Hamburg (PHPUGHH)",
+            "start": "2019-03-12 18:30",
+            "city": "Hamburg",
+            "country": "Germany",
+            "latitude": 53.551086,
+            "longitude": 9.993682,
+            "url": "https://www.meetup.com/phpughh/events/256776418/"
+        },
+        {
+            "name": "WP Meetup Milano Marzo 2019 | Nuova location: Talent Garden Merano",
+            "userGroup": "WordPress Meetup Milano",
+            "start": "2019-03-12 19:00",
+            "city": "Milano",
+            "country": "Italy",
+            "latitude": 45.497334,
+            "longitude": 9.221348,
+            "url": "https://www.meetup.com/WordPress-Meetup-Milano/events/259260379/"
+        },
+        {
+            "name": "Verona WordPress Meetup marzo 2019 #27 - La nostra cassetta degli attrezzi",
+            "userGroup": "Verona WordPress Meetup",
+            "start": "2019-03-12 19:00",
+            "city": "Verona",
+            "country": "Italy",
+            "latitude": 45.43023,
+            "longitude": 10.998634,
+            "url": "https://www.meetup.com/Verona-WordPress-Meetup/events/258494783/"
+        },
+        {
+            "name": "beer.php",
+            "userGroup": "PHPMG",
+            "start": "2019-03-12 19:00",
+            "city": "Belo Horizonte",
+            "country": "Brazil",
+            "latitude": -19.93578,
+            "longitude": -43.930969,
+            "url": "https://www.meetup.com/PHP-MG/events/257925854/"
+        },
+        {
+            "name": "WordPress Meetup Düsseldorf #30 – Mobile First!",
+            "userGroup": "Düsseldorf WordPress Meetup",
+            "start": "2019-03-12 19:00",
+            "city": "Düsseldorf",
+            "country": "Germany",
+            "latitude": 51.251102,
+            "longitude": 6.790246,
+            "url": "https://www.meetup.com/Dusseldorf-WordPress-Meetup/events/249430033/"
+        },
+        {
+            "name": "Daniel LaBarge - Password Protection Program",
+            "userGroup": "Dallas PHP",
+            "start": "2019-03-12 19:00",
+            "city": "Dallas",
+            "country": "Texas",
+            "latitude": 32.96619,
+            "longitude": -96.820114,
+            "url": "https://www.meetup.com/dallasphp/events/259368744/"
+        },
+        {
+            "name": "LA Drupal monthly meetup",
+            "userGroup": "Los Angeles Drupal",
+            "start": "2019-03-12 19:00",
+            "city": "Santa Monica",
+            "country": "California",
+            "latitude": 34.015503,
+            "longitude": -118.495872,
+            "url": "https://www.meetup.com/ladrupal/events/vcfhlmyzfbqb/"
+        },
+        {
+            "name": "WordPress Meetup Twente 12 maart 2019",
+            "userGroup": "WordPress Meetup Twente",
+            "start": "2019-03-12 19:00",
+            "city": "Enschede",
+            "country": "Netherlands",
+            "latitude": 52.22283,
+            "longitude": 6.902566,
+            "url": "https://www.meetup.com/WordPress-Meetup-Twente/events/257212240/"
+        },
+        {
+            "name": "PHPAmersfoort March 2019",
+            "userGroup": "PHPAmersfoort",
+            "start": "2019-03-12 19:00",
+            "city": "Amersfoort",
+            "country": "Netherlands",
+            "latitude": 52.15262,
+            "longitude": 5.382425,
+            "url": "https://www.meetup.com/PHPAmersfoort/events/258866842/"
+        },
+        {
+            "name": "WordPress Meetup Brescia - Marzo 2019",
+            "userGroup": "WordPress Meetup Brescia",
+            "start": "2019-03-12 19:15",
+            "city": "Brescia",
+            "country": "Italy",
+            "latitude": 45.524754,
+            "longitude": 10.210894,
+            "url": "https://www.meetup.com/WordPress-Meetup-Brescia/events/258989038/"
+        },
+        {
+            "name": "Creating Communication Applications using the Asterisk RESTful Interface",
+            "userGroup": "North Alabama Web Developers",
+            "start": "2019-03-13 12:00",
+            "city": "Huntsville",
+            "country": "Alabama",
+            "latitude": 34.731426,
+            "longitude": -86.583435,
+            "url": "https://www.meetup.com/web-99/events/258337881/"
+        },
+        {
+            "name": "Masterclass Low latency video",
+            "userGroup": "Developers Hilversum",
+            "start": "2019-03-13 17:00",
+            "city": "Hilversum",
+            "country": "Netherlands",
+            "latitude": 52.22612,
+            "longitude": 5.174735,
+            "url": "https://www.meetup.com/developersHilversum/events/258962539/"
+        },
+        {
+            "name": "WordPress March Meetup 2019",
+            "userGroup": "Christchurch WordPress Meetup",
+            "start": "2019-03-13 17:30",
+            "city": "Christchurch",
+            "country": "New Zealand",
+            "latitude": -43.534725,
+            "longitude": 172.641998,
+            "url": "https://www.meetup.com/Christchurch-WordPress-Meetup/events/259354826/"
+        },
+        {
+            "name": "Monthly WordPress meetup",
+            "userGroup": "Oulu WordPress Meetup",
+            "start": "2019-03-13 18:00",
+            "city": "Oulu",
+            "country": "Finland",
+            "latitude": 65.01406,
+            "longitude": 25.466635,
+            "url": "https://www.meetup.com/Oulu-WordPress-Meetup/events/258959607/"
+        },
+        {
+            "name": "Show me your toys and I'll show you mine  gotoAndPlay",
+            "userGroup": "Tallinn WordPress meetup",
+            "start": "2019-03-13 18:00",
+            "city": "Tartu",
+            "country": "Estonia",
+            "latitude": 58.38667,
+            "longitude": 26.720129,
+            "url": "https://www.meetup.com/Tallinn-WordPress-meetup/events/258942385/"
+        },
+        {
+            "name": "[愛知]Aichi WordPress Meetup #6",
+            "userGroup": "Aichi WordPress Meetup",
+            "start": "2019-03-13 18:00",
+            "city": "Aichi Prefecture",
+            "country": "Japan",
+            "latitude": 35.172775,
+            "longitude": 136.8875,
+            "url": "https://www.meetup.com/Aichi-WordPress-Meetup/events/257581920/"
+        },
+        {
+            "name": "Magento Meetup 2019",
+            "userGroup": "Magento Minds of Manchester",
+            "start": "2019-03-13 18:00",
+            "city": "Greater Manchester",
+            "country": "United Kingdom",
+            "latitude": 53.478985,
+            "longitude": -2.251983,
+            "url": "https://www.meetup.com/Magento-Minds-of-Manchester/events/258383234/"
+        },
+        {
+            "name": "Baltimore Drupal Meetup",
+            "userGroup": "Baltimore Drupal Meetup",
+            "start": "2019-03-13 18:30",
+            "city": "Baltimore",
+            "country": "Maryland",
+            "latitude": 39.282623,
+            "longitude": -76.593679,
+            "url": "https://www.meetup.com/Baltimore-Drupal-Meetup/events/qmzxvgyzfbrb/"
+        },
+        {
+            "name": "WordPress Meetup",
+            "userGroup": "WordPress Melbourne User Group",
+            "start": "2019-03-13 18:30",
+            "city": "Richmond",
+            "country": "Australia",
+            "latitude": -37.829201,
+            "longitude": 144.990082,
+            "url": "https://www.meetup.com/WordPress-Melbourne/events/258259883/"
+        },
+        {
+            "name": "TUGA 74 / TUGT 19-01",
+            "userGroup": "TUGA - TYPO3 User Group Austria",
+            "start": "2019-03-13 18:30",
+            "city": "Neustift im Stubaital",
+            "country": "Austria",
+            "latitude": 47.099052,
+            "longitude": 11.282407,
+            "url": "https://www.meetup.com/TUGA-TYPO3-User-Group-Austria/events/258839078/"
+        },
+        {
+            "name": "WordPress Meetup Sønderborg - 13. marts 2019",
+            "userGroup": "WordPress Meetup Sønderborg",
+            "start": "2019-03-13 18:45",
+            "city": "Sønderborg",
+            "country": "Denmark",
+            "latitude": 54.911125,
+            "longitude": 9.785392,
+            "url": "https://www.meetup.com/WordPress-Meetup-Sonderborg/events/257634147/"
+        },
+        {
+            "name": "Illumenate Your Dev Team",
+            "userGroup": "PHPSW",
+            "start": "2019-03-13 18:45",
+            "city": "Bristol",
+            "country": "United Kingdom",
+            "latitude": 51.453167,
+            "longitude": -2.590858,
+            "url": "https://www.meetup.com/php-sw/events/259284616/"
+        },
+        {
+            "name": "Headless CMS, PWA and PHP: building efficient front-end sites",
+            "userGroup": "PHP Cambridge",
+            "start": "2019-03-13 18:45",
+            "city": "Cambridge",
+            "country": "United Kingdom",
+            "latitude": 52.23543,
+            "longitude": 0.141326,
+            "url": "https://www.meetup.com/phpcambridge/events/257560367/"
+        },
+        {
+            "name": "PHP Pretoria Monthly Meetup",
+            "userGroup": "PHP Pretoria",
+            "start": "2019-03-13 19:00",
+            "city": "Centurion",
+            "country": "South Africa",
+            "latitude": -25.86611,
+            "longitude": 28.190668,
+            "url": "https://www.meetup.com/PHP-Pretoria/events/257181701/"
+        },
+        {
+            "name": "Topic TBD",
+            "userGroup": "Charlotte Drupal User Group",
+            "start": "2019-03-13 19:00",
+            "city": "Charlotte",
+            "country": "North Carolina",
+            "latitude": 35.245518,
+            "longitude": -80.834465,
+            "url": "https://www.meetup.com/charDUG/events/259390505/"
+        },
+        {
+            "name": "Drupal Meetup March 2019 - Special Topic: Security",
+            "userGroup": "Drupal Austria",
+            "start": "2019-03-13 19:00",
+            "city": "Vienna",
+            "country": "Austria",
+            "latitude": 48.211273,
+            "longitude": 16.361794,
+            "url": "https://www.meetup.com/Drupal-Austria/events/259328681/"
+        },
+        {
+            "name": "Magento Stammtisch Rhein-Main #36",
+            "userGroup": "Magento Stammtisch Rhein-Main",
+            "start": "2019-03-13 19:00",
+            "city": "Mainz",
+            "country": "Germany",
+            "latitude": 50.01362,
+            "longitude": 8.246578,
+            "url": "https://www.meetup.com/Magento-Stammtisch-Rhein-Main/events/259326898/"
+        },
+        {
+            "name": "Call for presenters",
+            "userGroup": "Broward Drupal Users Group",
+            "start": "2019-03-13 19:00",
+            "city": "Anytown",
+            "country": "Florida",
+            "latitude": 27.664827,
+            "longitude": -81.515755,
+            "url": "https://www.meetup.com/broward-drupal/events/ggmbsqyzfbrb/"
+        },
+        {
+            "name": "WordPress Meetup Nijmegen 13 maart 2019",
+            "userGroup": "WordPress Meetup Nijmegen",
+            "start": "2019-03-13 19:00",
+            "city": "Nijmegen",
+            "country": "Netherlands",
+            "latitude": 51.84789,
+            "longitude": 5.86838,
+            "url": "https://www.meetup.com/WordPress-Meetup-Nijmegen/events/257152747/"
+        },
+        {
+            "name": "Meetup Drupal Montpellier",
+            "userGroup": "Drupal France et Francophonie",
+            "start": "2019-03-13 19:00",
+            "city": "Montpellier",
+            "country": "France",
+            "latitude": 43.60725,
+            "longitude": 3.871496,
+            "url": "https://www.meetup.com/drupal-france-francophonie/events/ldrlnqyzfbrb/"
+        },
+        {
+            "name": "Lunch Time Drupal Users Meetup",
+            "userGroup": "Utah Drupal Users Group",
+            "start": "2019-03-14 12:00",
+            "city": "Salt Lake City",
+            "country": "Utah",
+            "latitude": 40.760899,
+            "longitude": -111.882881,
+            "url": "https://www.meetup.com/Utah-Drupal-Users-Group/events/jztrxpyzfbsb/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-14 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/cdfdqqyzfbsb/"
+        },
+        {
+            "name": "WordPress Meetup: Gutenberg workshop – Writing Your First Block",
+            "userGroup": "Tampere WordPress Meetup",
+            "start": "2019-03-14 16:00",
+            "city": "Tampere",
+            "country": "Finland",
+            "latitude": 61.49975,
+            "longitude": 23.772236,
+            "url": "https://www.meetup.com/Tampere-WordPress-Meetup/events/257986356/"
+        },
+        {
+            "name": "Super apéro 2019",
+            "userGroup": "Antenne AFUP Luxembourg : PHP",
+            "start": "2019-03-14 18:00",
+            "city": "Luxembourg",
+            "country": "Luxembourg",
+            "latitude": 49.61039,
+            "longitude": 6.134193,
+            "url": "https://www.meetup.com/afup-luxembourg-php/events/259262996/"
+        },
+        {
+            "name": "[Fortitude Valley] WordPress Brisbane March - TBA",
+            "userGroup": "WordPress Brisbane",
+            "start": "2019-03-14 18:00",
+            "city": "Fortitude Valley",
+            "country": "Australia",
+            "latitude": -27.458061,
+            "longitude": 153.03448,
+            "url": "https://www.meetup.com/WordPress-Brisbane/events/258488661/"
+        },
+        {
+            "name": "World of Flexbox & Responsive Design",
+            "userGroup": "WordPress Developers Israel",
+            "start": "2019-03-14 18:00",
+            "city": "Holon",
+            "country": "Israel",
+            "latitude": 32.00767,
+            "longitude": 34.80074,
+            "url": "https://www.meetup.com/WordPress-Developers-Israel/events/259118063/"
+        },
+        {
+            "name": "WordPress Meetup Zwolle",
+            "userGroup": "Zwolle WordPress Meetup",
+            "start": "2019-03-14 18:45",
+            "city": "Zwolle",
+            "country": "Netherlands",
+            "latitude": 52.508583,
+            "longitude": 6.093302,
+            "url": "https://www.meetup.com/Zwolle-WordPress-Meetup/events/257780696/"
+        },
+        {
+            "name": "PHPSP + Pub",
+            "userGroup": "PHPSP - São Paulo PHP Developers Group",
+            "start": "2019-03-14 19:00",
+            "city": "São Paulo",
+            "country": "Brazil",
+            "latitude": -23.564955,
+            "longitude": -46.654831,
+            "url": "https://www.meetup.com/php-sp/events/258152590/"
+        },
+        {
+            "name": "010PHP: PEBCAK - Human Problems in Software Engineering",
+            "userGroup": "010PHP",
+            "start": "2019-03-14 19:00",
+            "city": "Rotterdam",
+            "country": "Netherlands",
+            "latitude": 51.924957,
+            "longitude": 4.472716,
+            "url": "https://www.meetup.com/010PHP/events/258696107/"
+        },
+        {
+            "name": "Clean Architecture",
+            "userGroup": "Utah Laravel",
+            "start": "2019-03-14 19:00",
+            "city": "Salt Lake City",
+            "country": "Utah",
+            "latitude": 40.772137,
+            "longitude": -112.0168,
+            "url": "https://www.meetup.com/Utah-Laravel/events/259160071/"
+        },
+        {
+            "name": "WordPress Meetup Antwerp",
+            "userGroup": "Antwerp WordPress Meetup",
+            "start": "2019-03-14 19:00",
+            "city": "Antwerpen",
+            "country": "Belgium",
+            "latitude": 51.22154,
+            "longitude": 4.40455,
+            "url": "https://www.meetup.com/Antwerp-WordPress-Meetup/events/255361423/"
+        },
+        {
+            "name": "Super Apéro PHP 2019",
+            "userGroup": "Bordeaux PHP Meetup",
+            "start": "2019-03-14 19:00",
+            "city": "Bordeaux",
+            "country": "France",
+            "latitude": 44.83777,
+            "longitude": -0.568067,
+            "url": "https://www.meetup.com/Bordeaux-PHP-Meetup/events/259321285/"
+        },
+        {
+            "name": "Treffen von Drupal-Interessenten",
+            "userGroup": "drupal.ruhr",
+            "start": "2019-03-14 19:00",
+            "city": "Bochum",
+            "country": "Germany",
+            "latitude": 51.472439,
+            "longitude": 7.218593,
+            "url": "https://www.meetup.com/drupal-ruhr/events/gkwrjqyzfbsb/"
+        },
+        {
+            "name": "Machine Learning, Face Recognition e gestione identity con AWS",
+            "userGroup": "#pugTO: PHP User Group Torino",
+            "start": "2019-03-14 19:00",
+            "city": "Torino",
+            "country": "Italy",
+            "latitude": 45.05024,
+            "longitude": 7.669286,
+            "url": "https://www.meetup.com/pugTO-PHP-User-Group-Torino/events/259361426/"
+        },
+        {
+            "name": "Super-Apéro AFUP 2019",
+            "userGroup": "Antenne AFUP Paris : PHP",
+            "start": "2019-03-14 19:00",
+            "city": "Paris",
+            "country": "France",
+            "latitude": 48.879288,
+            "longitude": 2.345825,
+            "url": "https://www.meetup.com/afup-paris-php/events/259063883/"
+        },
+        {
+            "name": "2019 March - pi day edition- meetup",
+            "userGroup": "Seattle PHP User Group",
+            "start": "2019-03-14 19:00",
+            "city": "Seattle",
+            "country": "Washington",
+            "latitude": 47.598145,
+            "longitude": -122.334549,
+            "url": "https://www.meetup.com/seaphp/events/259374166/"
+        },
+        {
+            "name": "Social Meetup",
+            "userGroup": "Rockford Web Devs",
+            "start": "2019-03-14 19:00",
+            "city": "Machesney Park",
+            "country": "Illinois",
+            "latitude": 42.369137,
+            "longitude": -89.021042,
+            "url": "https://www.meetup.com/Rockford-Web-Devs/events/259284147/"
+        },
+        {
+            "name": "Super Apéro PHP 2019",
+            "userGroup": "Antenne AFUP Lyon : PHP",
+            "start": "2019-03-14 19:00",
+            "city": "Lyon",
+            "country": "France",
+            "latitude": 45.769653,
+            "longitude": 4.835916,
+            "url": "https://www.meetup.com/afup-lyon-php/events/259322155/"
+        },
+        {
+            "name": "C'est le SuperApéro de l'année ! Buvons un coup!",
+            "userGroup": "Antenne AFUP Nantes : PHP",
+            "start": "2019-03-14 19:00",
+            "city": "Nantes",
+            "country": "France",
+            "latitude": 47.207233,
+            "longitude": -1.555298,
+            "url": "https://www.meetup.com/afup-nantes-php/events/259333671/"
+        },
+        {
+            "name": "\"Twelve Factor\" Presentation by Vic Metcalfe",
+            "userGroup": "York Region PHP User Group",
+            "start": "2019-03-14 19:00",
+            "city": "Newmarket",
+            "country": "Canada",
+            "latitude": 44.044415,
+            "longitude": -79.44053,
+            "url": "https://www.meetup.com/York-Region-PHP-User-Group/events/254410571/"
+        },
+        {
+            "name": "Super Apéro PHP",
+            "userGroup": "Antenne AFUP Tours PHP",
+            "start": "2019-03-14 19:00",
+            "city": "Tours",
+            "country": "France",
+            "latitude": 47.390232,
+            "longitude": 0.68743,
+            "url": "https://www.meetup.com/afup-tours-php/events/259184096/"
+        },
+        {
+            "name": "SUPER APERO PHP - Cessons les estimations !",
+            "userGroup": "Antenne AFUP Poitiers : PHP",
+            "start": "2019-03-14 19:00",
+            "city": "Poitiers",
+            "country": "France",
+            "latitude": 46.580715,
+            "longitude": 0.337469,
+            "url": "https://www.meetup.com/afup-poitiers-php/events/258931851/"
+        },
+        {
+            "name": "WordPress en Google Cloud + Gestión del Tiempo en el trabajo web",
+            "userGroup": "Montevideo WordPress Meetup",
+            "start": "2019-03-14 19:00",
+            "city": "Montevideo",
+            "country": "Uruguay",
+            "latitude": -34.903854,
+            "longitude": -56.19058,
+            "url": "https://www.meetup.com/montevideo-wp/events/259414071/"
+        },
+        {
+            "name": "WordPress Contributor Day #1 at Yoast",
+            "userGroup": "WordPress Meetup Nijmegen",
+            "start": "2019-03-15 10:00",
+            "city": "Wijchen",
+            "country": "Netherlands",
+            "latitude": 51.806587,
+            "longitude": 5.729985,
+            "url": "https://www.meetup.com/WordPress-Meetup-Nijmegen/events/258895430/"
+        },
+        {
+            "name": "MidCamp 2019 Planning Meeting",
+            "userGroup": "Drupal Chicago",
+            "start": "2019-03-15 12:00",
+            "city": "Chicago",
+            "country": "Illinois",
+            "latitude": 41.95468,
+            "longitude": -87.693954,
+            "url": "https://www.meetup.com/drupalchicago/events/259171688/"
+        },
+        {
+            "name": "Study Web Development at FH Salzburg",
+            "userGroup": "Salzburg Web Dev",
+            "start": "2019-03-15 14:00",
+            "city": "Puch",
+            "country": "Austria",
+            "latitude": 47.724117,
+            "longitude": 13.086338,
+            "url": "https://www.meetup.com/salzburgwebdev/events/259089188/"
+        },
+        {
+            "name": "PrestaShop Community Meetup - Šiauliai",
+            "userGroup": "PrestaShop - Lithuania Ecommerce Meetup",
+            "start": "2019-03-15 17:30",
+            "city": "Šiauliai",
+            "country": "Lithuania",
+            "latitude": 55.93894,
+            "longitude": 23.307829,
+            "url": "https://www.meetup.com/PrestaShop-Lithuania-Ecommerce-Meetup/events/258936539/"
+        },
+        {
+            "name": "WordCamp Iloilo 2019 Volunteers Meeting",
+            "userGroup": "WordPress Iloilo",
+            "start": "2019-03-15 18:00",
+            "city": "Iloilo",
+            "country": "Philippines",
+            "latitude": 10.726779,
+            "longitude": 122.54789,
+            "url": "https://www.meetup.com/WordPress-Iloilo/events/259113594/"
+        },
+        {
+            "name": "Magento Meetup Kharkiv & Contribution Day",
+            "userGroup": "Magento Meetup Kharkiv",
+            "start": "2019-03-15 19:00",
+            "city": "Kharkiv",
+            "country": "Ukraine",
+            "latitude": 49.9977,
+            "longitude": 36.236603,
+            "url": "https://www.meetup.com/Magento-Meetup-Kharkiv/events/259325805/"
+        },
+        {
+            "name": "Meetup #9",
+            "userGroup": "Magento Meetup Mar del Plata",
+            "start": "2019-03-16 09:00",
+            "city": "Mar del Plata",
+            "country": "Argentina",
+            "latitude": -38.01105,
+            "longitude": -57.535725,
+            "url": "https://www.meetup.com/Magento-Meetup-Mar-del-Plata/events/259296391/"
+        },
+        {
+            "name": "JavaScript fwdays'19 conference",
+            "userGroup": "Fwdays",
+            "start": "2019-03-16 09:30",
+            "city": "Kyiv",
+            "country": "Ukraine",
+            "latitude": 50.45057,
+            "longitude": 30.443897,
+            "url": "https://www.meetup.com/Fwdays/events/256713311/"
+        },
+        {
+            "name": "第5回 二子玉川 WordPress Meetup東京都市大学二子玉川夢キャンパス",
+            "userGroup": "Tokyo WordPress Meetup",
+            "start": "2019-03-16 09:50",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 35.611893,
+            "longitude": 139.62785,
+            "url": "https://www.meetup.com/Tokyo-WordPress-Meetup/events/259086450/"
+        },
+        {
+            "name": "Laravel Meetup - Lahore Pakistan",
+            "userGroup": "Laravel Developers Pakistan",
+            "start": "2019-03-16 10:00",
+            "city": "Lahore",
+            "country": "Pakistan",
+            "latitude": 31.500528,
+            "longitude": 74.33487,
+            "url": "https://www.meetup.com/Laravel-Developers-Pakistan/events/257185332/"
+        },
+        {
+            "name": "Open Workshop — Combined Frederick Technology Groups",
+            "userGroup": "Frederick Web Technology Group",
+            "start": "2019-03-16 10:00",
+            "city": "Frederick",
+            "country": "Maryland",
+            "latitude": 39.415821,
+            "longitude": -77.410439,
+            "url": "https://www.meetup.com/FredWebTech/events/lwlvcqyzfbvb/"
+        },
+        {
+            "name": "Construir um site com OptimizePress",
+            "userGroup": "WordPress SJC",
+            "start": "2019-03-16 10:00",
+            "city": "São José dos Campos",
+            "country": "Brazil",
+            "latitude": -23.197992,
+            "longitude": -45.882935,
+            "url": "https://www.meetup.com/wordpress-sjc/events/259243801/"
+        },
+        {
+            "name": "Gatsby and Drupal : Match made in heaven?",
+            "userGroup": "Bangalore Drupal User Group",
+            "start": "2019-03-16 10:00",
+            "city": "Bangalore",
+            "country": "India",
+            "latitude": 12.91793,
+            "longitude": 77.65166,
+            "url": "https://www.meetup.com/Bangalore-Drupal-User-Group/events/259292813/"
+        },
+        {
+            "name": "The 110% Guide to Caching with WordPress",
+            "userGroup": "Lagos WordPress Community",
+            "start": "2019-03-16 10:00",
+            "city": "Ikeja",
+            "country": "Nigeria",
+            "latitude": 6.63719,
+            "longitude": 3.358945,
+            "url": "https://www.meetup.com/Lagos-WordPress-Meetup-Group/events/259113675/"
+        },
+        {
+            "name": "Kids that code: Surfing through the dashboard",
+            "userGroup": "Lagos WordPress Community",
+            "start": "2019-03-16 10:00",
+            "city": "Ikeja",
+            "country": "Nigeria",
+            "latitude": 6.585404,
+            "longitude": 3.35306,
+            "url": "https://www.meetup.com/Lagos-WordPress-Meetup-Group/events/258812336/"
+        },
+        {
+            "name": "21 Meetup WordPress Puebla \"WordPress 101\"",
+            "userGroup": "WordPress Puebla",
+            "start": "2019-03-16 11:00",
+            "city": "Puebla",
+            "country": "Mexico",
+            "latitude": 19.040474,
+            "longitude": -98.19504,
+            "url": "https://www.meetup.com/wppuebla/events/259231460/"
+        },
+        {
+            "name": "Brooklyn WordPress Help Desk",
+            "userGroup": "WordPress NYC Meetup Group",
+            "start": "2019-03-16 13:00",
+            "city": "Brooklyn",
+            "country": "New York",
+            "latitude": 40.68695,
+            "longitude": -73.985565,
+            "url": "https://www.meetup.com/WordPressNYC/events/258850398/"
+        },
+        {
+            "name": "#HackTheVille",
+            "userGroup": "Louisville Software Engineering Meetup",
+            "start": "2019-03-16 13:00",
+            "city": "Jeffersonville",
+            "country": "Indiana",
+            "latitude": 38.275436,
+            "longitude": -85.744812,
+            "url": "https://www.meetup.com/Louisville-Software-Engineering/events/258306970/"
+        },
+        {
+            "name": "¡Primer encuentro del año! 🤓💻",
+            "userGroup": "WordPress Barranquilla",
+            "start": "2019-03-16 14:00",
+            "city": "Barranquilla",
+            "country": "Colombia",
+            "latitude": 11.007944,
+            "longitude": -74.81706,
+            "url": "https://www.meetup.com/WordPress-Barranquilla/events/259023273/"
+        },
+        {
+            "name": "信州 WordPress Meetup in 松本 Vol.10",
+            "userGroup": "信州 WordPress Meetup",
+            "start": "2019-03-16 14:00",
+            "city": "Matsumoto",
+            "country": "Japan",
+            "latitude": 36.234665,
+            "longitude": 137.97113,
+            "url": "https://www.meetup.com/Shinshu-WordPress-Meetup/events/259287489/"
+        },
+        {
+            "name": "Coffee Shop Hangout",
+            "userGroup": "Kansas City's PHP User Group",
+            "start": "2019-03-16 14:30",
+            "city": "Lenexa",
+            "country": "Kansas",
+            "latitude": 38.970943,
+            "longitude": -94.7344,
+            "url": "https://www.meetup.com/kcphpug/events/bmwtcpyzfbvb/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-16 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbvb/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-18 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/cdfdqqyzfbxb/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-18 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbxb/"
+        },
+        {
+            "name": "WordPress Toronto - North - Let's Fix Your WordPress Site",
+            "userGroup": "The Toronto WordPress Group",
+            "start": "2019-03-18 17:00",
+            "city": "North York",
+            "country": "Canada",
+            "latitude": 43.76777,
+            "longitude": -79.414734,
+            "url": "https://www.meetup.com/WPToronto/events/257325814/"
+        },
+        {
+            "name": "After work beers with Jeremy",
+            "userGroup": "Wellington Drupal Meetup",
+            "start": "2019-03-18 17:15",
+            "city": "Wellington",
+            "country": "New Zealand",
+            "latitude": -41.290718,
+            "longitude": 174.77501,
+            "url": "https://www.meetup.com/Wellington-Drupal-Meetup/events/259111350/"
+        },
+        {
+            "name": "Mental Health at the workplace",
+            "userGroup": "PHPugle",
+            "start": "2019-03-18 18:00",
+            "city": "Roermond",
+            "country": "Netherlands",
+            "latitude": 51.165833,
+            "longitude": 6.048859,
+            "url": "https://www.meetup.com/PHPugle/events/259061174/"
+        },
+        {
+            "name": "Evolve UX Fast Feedback Session is Coming to Ottawa!!",
+            "userGroup": "Evolving Labs Ottawa",
+            "start": "2019-03-18 18:00",
+            "city": "Ottawa",
+            "country": "Canada",
+            "latitude": 45.42093,
+            "longitude": -75.696785,
+            "url": "https://www.meetup.com/Evolving-labs-Ottawa/events/258944308/"
+        },
+        {
+            "name": "WordPress Professionals Hangout",
+            "userGroup": "WordPress Montclair Meetup",
+            "start": "2019-03-18 19:00",
+            "city": "Montclair",
+            "country": "New Jersey",
+            "latitude": 40.811279,
+            "longitude": -74.219345,
+            "url": "https://www.meetup.com/WordPress-Montclair-Meetup/events/258969953/"
+        },
+        {
+            "name": "WordPress Meetup: Moderni JavaScript kehitys dinosauruksille",
+            "userGroup": "Jyväskylä WordPress Meetup",
+            "start": "2019-03-19 17:00",
+            "city": "Jyväskylä",
+            "country": "Finland",
+            "latitude": 62.244022,
+            "longitude": 25.754477,
+            "url": "https://www.meetup.com/Jyvaskyla-WordPress-Meetup/events/258667576/"
+        },
+        {
+            "name": "Lightning Talks",
+            "userGroup": "Drupal Providence",
+            "start": "2019-03-19 18:00",
+            "city": "Providence",
+            "country": "Rhode Island",
+            "latitude": 41.820404,
+            "longitude": -71.4097,
+            "url": "https://www.meetup.com/DrupalPVD/events/257974946/"
+        },
+        {
+            "name": "Event Sourcing and GDPR: When Immutability Meets Reality",
+            "userGroup": "PHP North East",
+            "start": "2019-03-19 18:00",
+            "city": "Newcastle Upon Tyne",
+            "country": "United Kingdom",
+            "latitude": 54.973297,
+            "longitude": -1.610649,
+            "url": "https://www.meetup.com/phpnortheast/events/259119933/"
+        },
+        {
+            "name": "[Especial - Casp 162] [English] WooCommerce Team in Barcelona",
+            "userGroup": "WordPress Barcelona",
+            "start": "2019-03-19 18:30",
+            "city": "Barcelona",
+            "country": "Spain",
+            "latitude": 41.39691,
+            "longitude": 2.181141,
+            "url": "https://www.meetup.com/wordpressbcn/events/259294536/"
+        },
+        {
+            "name": "DC: March WordPress Meetup - BigCommerce!",
+            "userGroup": "WordPress DC",
+            "start": "2019-03-19 18:30",
+            "city": "Washington",
+            "country": "District Of Columbia",
+            "latitude": 38.90877,
+            "longitude": -77.04227,
+            "url": "https://www.meetup.com/wordpressdc/events/259302917/"
+        },
+        {
+            "name": "PHP+Beer DT",
+            "userGroup": "The Indianapolis PHP Meetup Group",
+            "start": "2019-03-19 18:30",
+            "city": "Indianapolis",
+            "country": "Indiana",
+            "latitude": 39.768822,
+            "longitude": -86.153496,
+            "url": "https://www.meetup.com/indyphp/events/259226720/"
+        },
+        {
+            "name": "Monthly Meetup",
+            "userGroup": "PHPDX",
+            "start": "2019-03-19 18:30",
+            "city": "Portland",
+            "country": "Oregon",
+            "latitude": 45.519382,
+            "longitude": -122.664429,
+            "url": "https://www.meetup.com/PDX-PHP/events/259105067/"
+        },
+        {
+            "name": "An awesome topic TBC",
+            "userGroup": "WordPress Jo'burg",
+            "start": "2019-03-19 19:00",
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "latitude": -26.017279,
+            "longitude": 28.003927,
+            "url": "https://www.meetup.com/WordPress-Joburg/events/257532650/"
+        },
+        {
+            "name": "Magento Meetup Wrocław #6",
+            "userGroup": "Magento Meetup Wrocław",
+            "start": "2019-03-19 19:00",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "latitude": 51.1083,
+            "longitude": 17.02476,
+            "url": "https://www.meetup.com/magentomeetupwro/events/257099846/"
+        },
+        {
+            "name": "WordPress Meetup Leipzig - Werkstatt",
+            "userGroup": "WordPress Meetup Leipzig",
+            "start": "2019-03-19 19:00",
+            "city": "Leipzig",
+            "country": "Germany",
+            "latitude": 51.332104,
+            "longitude": 12.37352,
+            "url": "https://www.meetup.com/Leipzig-WordPress-Meetup/events/257982989/"
+        },
+        {
+            "name": "Getting Gutenberg To Do What You Need It To Do",
+            "userGroup": "WordPress NYC Meetup Group",
+            "start": "2019-03-19 19:00",
+            "city": "New York",
+            "country": "New York",
+            "latitude": 40.7569,
+            "longitude": -73.99003,
+            "url": "https://www.meetup.com/WordPressNYC/events/259366653/"
+        },
+        {
+            "name": "Drupal Gold Coast Monthly Meetup",
+            "userGroup": "Drupal Gold Coast",
+            "start": "2019-03-19 19:00",
+            "city": "Varsity Lakes",
+            "country": "Australia",
+            "latitude": -28.080526,
+            "longitude": 153.411163,
+            "url": "https://www.meetup.com/drupalgoldcoast/events/258458573/"
+        },
+        {
+            "name": "Go to MidCamp, the Midwest Drupal Camp!",
+            "userGroup": "Drupal Chicago",
+            "start": "2019-03-20 08:00",
+            "city": "Chicago",
+            "country": "Illinois",
+            "latitude": 41.922897,
+            "longitude": -87.6535,
+            "url": "https://www.meetup.com/drupalchicago/events/259171929/"
+        },
+        {
+            "name": "12° Meetup Prestashop Monterrey",
+            "userGroup": "PrestaShop - Monterrey Ecommerce Meetup",
+            "start": "2019-03-20 15:00",
+            "city": "Monterrey",
+            "country": "Mexico",
+            "latitude": 25.670000076294,
+            "longitude": -100.31999969482,
+            "url": "https://www.meetup.com/PrestaShop-Monterrey-Ecommerce-Meetup/events/258910569/"
+        },
+        {
+            "name": "Web Dev Meetup  Skidata",
+            "userGroup": "Salzburg Web Dev",
+            "start": "2019-03-20 17:00",
+            "city": "Salzburg-Umgebung",
+            "country": "Austria",
+            "latitude": 47.72624,
+            "longitude": 13.039014,
+            "url": "https://www.meetup.com/salzburgwebdev/events/258760451/"
+        },
+        {
+            "name": "incontro WordPress Bari ~ Marzo 2019",
+            "userGroup": "WordPress Bari",
+            "start": "2019-03-20 18:00",
+            "city": "Bari",
+            "country": "Italy",
+            "latitude": 41.13674,
+            "longitude": 16.837296,
+            "url": "https://www.meetup.com/WordPress-Bari/events/259261069/"
+        },
+        {
+            "name": "JaxPHP / JaxWeb meetup",
+            "userGroup": "JaxPHP / JaxWeb",
+            "start": "2019-03-20 18:00",
+            "city": "Jacksonville",
+            "country": "Florida",
+            "latitude": 30.333359,
+            "longitude": -81.59436,
+            "url": "https://www.meetup.com/JaxPHP-JaxWeb/events/hzgpcqyzfbbc/"
+        },
+        {
+            "name": "All Users - share your site",
+            "userGroup": "Asheville Area WordPress Group",
+            "start": "2019-03-20 18:00",
+            "city": "Asheville",
+            "country": "North Carolina",
+            "latitude": 35.597885,
+            "longitude": -82.5513,
+            "url": "https://www.meetup.com/Asheville-Area-WordPress-Group/events/259377457/"
+        },
+        {
+            "name": "Drupal Meetup - Advanced Views Usage",
+            "userGroup": "Victoria Drupal User Group",
+            "start": "2019-03-20 18:00",
+            "city": "Victoria",
+            "country": "Canada",
+            "latitude": 48.425423,
+            "longitude": -123.365105,
+            "url": "https://www.meetup.com/Victoria-Drupal-User-Group/events/259115210/"
+        },
+        {
+            "name": "MWUG Monthly Meetup",
+            "userGroup": "Manchester WordPress User Group (MWUG)",
+            "start": "2019-03-20 18:30",
+            "city": "Manchester",
+            "country": "United Kingdom",
+            "latitude": 53.486267,
+            "longitude": -2.239699,
+            "url": "https://www.meetup.com/ManchesterWordPressUserGroup/events/257537020/"
+        },
+        {
+            "name": "33rd Swiss Magento Meetup",
+            "userGroup": "Magento Meetup Switzerland",
+            "start": "2019-03-20 18:30",
+            "city": "Luzern",
+            "country": "Switzerland",
+            "latitude": 47.047836,
+            "longitude": 8.304599,
+            "url": "https://www.meetup.com/magento-switzerland/events/258464712/"
+        },
+        {
+            "name": "Docker for PHP Development",
+            "userGroup": "Bristol PHP Training",
+            "start": "2019-03-20 18:30",
+            "city": "Bristol, BS1 6QA",
+            "country": "United Kingdom",
+            "latitude": 51.448235,
+            "longitude": -2.581815,
+            "url": "https://www.meetup.com/Bristol-PHP-Training/events/259131418/"
+        },
+        {
+            "name": "WordPress, où se documenter & comment contribuer à la documentation ?",
+            "userGroup": "WordPress Paris",
+            "start": "2019-03-20 18:30",
+            "city": "Paris",
+            "country": "France",
+            "latitude": 48.866096,
+            "longitude": 2.373295,
+            "url": "https://www.meetup.com/wordpress-ile-de-france/events/259184809/"
+        },
+        {
+            "name": "Main monthly meeting",
+            "userGroup": "DC PHP Developer's Community",
+            "start": "2019-03-20 18:30",
+            "city": "Vienna",
+            "country": "Virginia",
+            "latitude": 38.929745,
+            "longitude": -77.24707,
+            "url": "https://www.meetup.com/DC-PHP/events/259194297/"
+        },
+        {
+            "name": "Melbourne Laravel + Vuejs full stack Group",
+            "userGroup": "Melbourne laravel Meetup",
+            "start": "2019-03-20 18:30",
+            "city": "Melbourne",
+            "country": "Australia",
+            "latitude": -37.818199,
+            "longitude": 144.962555,
+            "url": "https://www.meetup.com/Melbourne-laravel-Meetup/events/258759165/"
+        },
+        {
+            "name": "Community Website Project Update AND Custom Plugins AND Useful Code  Snippets",
+            "userGroup": "New Hampshire WordPress",
+            "start": "2019-03-20 18:30",
+            "city": "Londonderry",
+            "country": "New Hampshire",
+            "latitude": 42.917484,
+            "longitude": -71.36986,
+            "url": "https://www.meetup.com/WordPressDevNH/events/257585462/"
+        },
+        {
+            "name": "[Centre] Mujeres en la Comunidad WordPress",
+            "userGroup": "WordPress Barcelona",
+            "start": "2019-03-20 18:30",
+            "city": "Barcelona",
+            "country": "Spain",
+            "latitude": 41.386944,
+            "longitude": 2.171678,
+            "url": "https://www.meetup.com/wordpressbcn/events/257343551/"
+        },
+        {
+            "name": "Drupal Meetup",
+            "userGroup": "München Drupal User Group Meetup",
+            "start": "2019-03-20 19:00",
+            "city": "München",
+            "country": "Germany",
+            "latitude": 48.14105,
+            "longitude": 11.566612,
+            "url": "https://www.meetup.com/Munchen-Drupal-User-Group-Meetup/events/258924208/"
+        },
+        {
+            "name": "Treviso WordPress Meetup 20 marzo 2019",
+            "userGroup": "Treviso WordPress Meetup",
+            "start": "2019-03-20 19:00",
+            "city": "Castelfranco Veneto",
+            "country": "Italy",
+            "latitude": 45.67305,
+            "longitude": 11.959035,
+            "url": "https://www.meetup.com/Treviso-WordPress-Meetup/events/259157526/"
+        },
+        {
+            "name": "PHPUG Münster Meetup 03/2019 - Golang for PHP devs",
+            "userGroup": "PHP-Usergroup Münster",
+            "start": "2019-03-20 19:00",
+            "city": "Münster",
+            "country": "Germany",
+            "latitude": 51.95093,
+            "longitude": 7.636063,
+            "url": "https://www.meetup.com/phpugms/events/257961386/"
+        },
+        {
+            "name": "Talking about PHP with Philly PHP",
+            "userGroup": "The Philadelphia Area PHP Meetup Group",
+            "start": "2019-03-20 19:00",
+            "city": "King of Prussia",
+            "country": "Pennsylvania",
+            "latitude": 40.0914,
+            "longitude": -75.338295,
+            "url": "https://www.meetup.com/phillyphp/events/259122572/"
+        },
+        {
+            "name": "23º Meetup WordPress Fortaleza - AMP WooCommerce + Growth Hacking",
+            "userGroup": "WordPress Fortaleza Meetup",
+            "start": "2019-03-20 19:00",
+            "city": "Fortaleza",
+            "country": "Brazil",
+            "latitude": -3.736936,
+            "longitude": -38.485878,
+            "url": "https://www.meetup.com/wpfortaleza/events/259189637/"
+        },
+        {
+            "name": "Plovdiv WordPress Meetup - March 2019",
+            "userGroup": "Plovdiv WordPress Meetup",
+            "start": "2019-03-20 19:00",
+            "city": "Plovdiv",
+            "country": "Bulgaria",
+            "latitude": 42.142315,
+            "longitude": 24.720446,
+            "url": "https://www.meetup.com/Plovdiv-WordPress-Meetup/events/259417220/"
+        },
+        {
+            "name": "PHP Essex Meetup - Learning to Launch with Mike Gatward",
+            "userGroup": "PHP Essex",
+            "start": "2019-03-20 19:30",
+            "city": "Chelmsford",
+            "country": "United Kingdom",
+            "latitude": 51.729496,
+            "longitude": 0.470546,
+            "url": "https://www.meetup.com/PHP-Essex/events/259063801/"
+        },
+        {
+            "name": "Forense en WordPress",
+            "userGroup": "WordPress Sevilla",
+            "start": "2019-03-20 19:30",
+            "city": "Sevilla",
+            "country": "Spain",
+            "latitude": 37.37775,
+            "longitude": -6.001395,
+            "url": "https://www.meetup.com/WordPress-Sevilla/events/259324801/"
+        },
+        {
+            "name": "Fox Valley Drupal  for March 2019 is at MidCamp!",
+            "userGroup": "Fox Valley Drupal",
+            "start": "2019-03-20 21:00",
+            "city": "Chicago",
+            "country": "Illinois",
+            "latitude": 41.923088,
+            "longitude": -87.65421,
+            "url": "https://www.meetup.com/Fox-Valley-Drupal/events/258704314/"
+        },
+        {
+            "name": "Making Drupal Fast - A Surgical Approach",
+            "userGroup": "London Ontario Drupal Users Group (LonDUG)",
+            "start": "2019-03-21 11:45",
+            "city": "London",
+            "country": "Canada",
+            "latitude": 42.981358,
+            "longitude": -81.24943,
+            "url": "https://www.meetup.com/londug/events/254994575/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-21 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/cdfdqqyzfbcc/"
+        },
+        {
+            "name": "Hackathon: Kdyby knihovny povýšíme na Nette 3.0.",
+            "userGroup": "Péhápkaři Brno",
+            "start": "2019-03-21 16:00",
+            "city": "Brno",
+            "country": "Czech Republic",
+            "latitude": 49.218327,
+            "longitude": 16.587692,
+            "url": "https://www.meetup.com/Pehapkari-Brno/events/259390328/"
+        },
+        {
+            "name": "PHP Adelaide User Group Meeting",
+            "userGroup": "PHP Adelaide",
+            "start": "2019-03-21 18:00",
+            "city": "Adelaide",
+            "country": "Australia",
+            "latitude": -34.928619,
+            "longitude": 138.59996,
+            "url": "https://www.meetup.com/PHP-Adelaide/events/258082985/"
+        },
+        {
+            "name": "2nd Ecommerce Meetup - Prestashop Iasi",
+            "userGroup": "PrestaShop - Iasi Ecommerce Meetup",
+            "start": "2019-03-21 18:00",
+            "city": "Iasi",
+            "country": "Romania",
+            "latitude": 47.13385,
+            "longitude": 27.611242,
+            "url": "https://www.meetup.com/PrestaShop-Iasi-Ecommerce-Meetup/events/259325385/"
+        },
+        {
+            "name": "Let's go: Making great Scrum Masters",
+            "userGroup": "Salzburg Web Dev",
+            "start": "2019-03-21 18:00",
+            "city": "Salzburg",
+            "country": "Austria",
+            "latitude": 47.805565,
+            "longitude": 13.033841,
+            "url": "https://www.meetup.com/salzburgwebdev/events/258760257/"
+        },
+        {
+            "name": "PHP",
+            "userGroup": "TrianglePHP",
+            "start": "2019-03-21 18:00",
+            "city": "Morrisville",
+            "country": "North Carolina",
+            "latitude": 35.851479,
+            "longitude": -78.794403,
+            "url": "https://www.meetup.com/trianglephp/events/259219206/"
+        },
+        {
+            "name": "WordPress Meetup Kaunas #35",
+            "userGroup": "Kaunas WordPress Meetup",
+            "start": "2019-03-21 18:30",
+            "city": "Kaunas",
+            "country": "Lithuania",
+            "latitude": 54.9,
+            "longitude": 23.91,
+            "url": "https://www.meetup.com/Kaunas-WordPress-Meetup/events/257143547/"
+        },
+        {
+            "name": "Drupal Users Group Monthly Meetup",
+            "userGroup": "St. Louis Drupal Users Group (STLDUG)",
+            "start": "2019-03-21 18:30",
+            "city": "Saint Louis",
+            "country": "Missouri",
+            "latitude": 38.61484,
+            "longitude": -90.223885,
+            "url": "https://www.meetup.com/drupalstl/events/wnrqlqyzfbcc/"
+        },
+        {
+            "name": "Drupal UG Monthly Meetup",
+            "userGroup": "Bulgaria Drupal User Group",
+            "start": "2019-03-21 18:30",
+            "city": "Sofia",
+            "country": "Bulgaria",
+            "latitude": 42.70771,
+            "longitude": 23.325247,
+            "url": "https://www.meetup.com/Bulgaria-Drupal-User-Group/events/259394962/"
+        },
+        {
+            "name": "Drupal Yorkshire Monthly Meetup",
+            "userGroup": "Drupal Yorkshire Monthly Meetup",
+            "start": "2019-03-21 18:30",
+            "city": "Leeds",
+            "country": "United Kingdom",
+            "latitude": 53.794987,
+            "longitude": -1.546015,
+            "url": "https://www.meetup.com/DrupalYorkshire/events/zwzsfpyzfbcc/"
+        },
+        {
+            "name": "#ViennaPHP monthly gathering",
+            "userGroup": "Vienna PHP Community",
+            "start": "2019-03-21 18:30",
+            "city": "Vienna",
+            "country": "Austria",
+            "latitude": 48.192005,
+            "longitude": 16.335951,
+            "url": "https://www.meetup.com/viennaphp/events/258213378/"
+        },
+        {
+            "name": "Monthly Meeting - March/2019",
+            "userGroup": "AmsterdamPHP",
+            "start": "2019-03-21 19:00",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "latitude": 52.344234,
+            "longitude": 4.911617,
+            "url": "https://www.meetup.com/AmsterdamPHP/events/255793647/"
+        },
+        {
+            "name": "PHP + AWS: EC2 and Beyond by H Hatfield",
+            "userGroup": "Utah PHP User Group",
+            "start": "2019-03-21 19:00",
+            "city": "Lehi",
+            "country": "Utah",
+            "latitude": 40.440453,
+            "longitude": -111.904655,
+            "url": "https://www.meetup.com/Utah-PHP-User-Group/events/256468072/"
+        },
+        {
+            "name": "PHPSP Campinas + PUB",
+            "userGroup": "PHPSP Campinas",
+            "start": "2019-03-21 19:00",
+            "city": "Campinas",
+            "country": "Brazil",
+            "latitude": -22.896162,
+            "longitude": -47.051292,
+            "url": "https://www.meetup.com/PHPSP-Campinas/events/258063313/"
+        },
+        {
+            "name": "Boteco PHP",
+            "userGroup": "PHP Rio",
+            "start": "2019-03-21 19:00",
+            "city": "Rio de Janeiro",
+            "country": "Brazil",
+            "latitude": -22.911495,
+            "longitude": -43.183445,
+            "url": "https://www.meetup.com/PHP-Rio/events/258983460/"
+        },
+        {
+            "name": "Tema a determinar",
+            "userGroup": "WordPress Madrid",
+            "start": "2019-03-21 19:00",
+            "city": "Madrid",
+            "country": "Spain",
+            "latitude": 40.412415,
+            "longitude": -3.718261,
+            "url": "https://www.meetup.com/WordPress-Madrid/events/258124656/"
+        },
+        {
+            "name": "CDNs as Code",
+            "userGroup": "#pugMi: PHP User Group Milano",
+            "start": "2019-03-21 19:15",
+            "city": "Milano",
+            "country": "Italy",
+            "latitude": 45.48615,
+            "longitude": 9.189582,
+            "url": "https://www.meetup.com/MilanoPHP/events/258883212/"
+        },
+        {
+            "name": "2. Srečanje uporabnikov PrestaShop trgovine",
+            "userGroup": "PrestaShop - Slovenia Ecommerce Meetup",
+            "start": "2019-03-22 14:00",
+            "city": "Maribor",
+            "country": "Slovenia",
+            "latitude": 46.520866,
+            "longitude": 15.671534,
+            "url": "https://www.meetup.com/PrestaShop-Ljubljana-Ecommerce-Meetup/events/259262813/"
+        },
+        {
+            "name": "Tout public / Nouveau BarCamp",
+            "userGroup": "Marseille WordPress Meetup",
+            "start": "2019-03-22 19:00",
+            "city": "Marseille",
+            "country": "France",
+            "latitude": 43.299366,
+            "longitude": 5.374364,
+            "url": "https://www.meetup.com/Marseille-WordPress-Meetup/events/258969947/"
+        },
+        {
+            "name": "WordCamp Bordeaux 2019",
+            "userGroup": "WordPress Bordeaux",
+            "start": "2019-03-23 08:00",
+            "city": "Bordeaux",
+            "country": "France",
+            "latitude": 44.84965,
+            "longitude": -0.570435,
+            "url": "https://www.meetup.com/wordpress-bordeaux/events/258958528/"
+        },
+        {
+            "name": "WordPress + BigCommerce with Topher DeRosia",
+            "userGroup": "WordPress PortHarcourt Meetup",
+            "start": "2019-03-23 12:00",
+            "city": "Port Harcourt",
+            "country": "Nigeria",
+            "latitude": 4.812473,
+            "longitude": 7.005203,
+            "url": "https://www.meetup.com/WP-PortHarcourt/events/258766314/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-23 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbfc/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-25 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/cdfdqqyzfbhc/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-25 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbhc/"
+        },
+        {
+            "name": "Essential Design Tips for Beaver Builder & Automating Social with IFTTT",
+            "userGroup": "WordPress Sydney",
+            "start": "2019-03-25 18:00",
+            "city": "Sydney",
+            "country": "Australia",
+            "latitude": -33.87266,
+            "longitude": 151.20447,
+            "url": "https://www.meetup.com/WordPress-Sydney/events/258913210/"
+        },
+        {
+            "name": "WordPress Meetup Bratislava 3/2019",
+            "userGroup": "Bratislava WordPress Community",
+            "start": "2019-03-25 18:00",
+            "city": "Bratislava",
+            "country": "Slovakia",
+            "latitude": 48.150093,
+            "longitude": 17.115763,
+            "url": "https://www.meetup.com/Bratislava-WordPress-Community/events/259088136/"
+        },
+        {
+            "name": "Bostonwp Meetup",
+            "userGroup": "Boston WordPress",
+            "start": "2019-03-25 18:30",
+            "city": "Cambridge",
+            "country": "Massachusetts",
+            "latitude": 42.456814,
+            "longitude": -71.397446,
+            "url": "https://www.meetup.com/boston-wordpress-meetup/events/256904799/"
+        },
+        {
+            "name": "WordPress Meetup (March 2019)",
+            "userGroup": "WordPress Singapore",
+            "start": "2019-03-25 19:00",
+            "city": "Tanjong Pagar",
+            "country": "Singapore",
+            "latitude": 1.2757,
+            "longitude": 103.84581,
+            "url": "https://www.meetup.com/WordPress-Singapore/events/259345489/"
+        },
+        {
+            "name": "Gutenberg, du web design à la création de blocs",
+            "userGroup": "WordPress Lyon Meetup",
+            "start": "2019-03-25 19:00",
+            "city": "Lyon",
+            "country": "France",
+            "latitude": 45.749645,
+            "longitude": 4.843248,
+            "url": "https://www.meetup.com/WordPress-Lyon-Meetup/events/259386581/"
+        },
+        {
+            "name": "WordPress meetup Eindhoven",
+            "userGroup": "WordPress Meetup Eindhoven",
+            "start": "2019-03-25 19:00",
+            "city": "Eindhoven",
+            "country": "Netherlands",
+            "latitude": 51.43314,
+            "longitude": 5.432063,
+            "url": "https://www.meetup.com/WordPress-Meetup-Eindhoven/events/257156217/"
+        },
+        {
+            "name": "VA DC PHP Social Subgroup",
+            "userGroup": "DC PHP Developer's Community",
+            "start": "2019-03-26 18:00",
+            "city": "Alexandria",
+            "country": "Virginia",
+            "latitude": 38.824162,
+            "longitude": -77.058281,
+            "url": "https://www.meetup.com/DC-PHP/events/pdztkqyzfbjc/"
+        },
+        {
+            "name": "Event #55: \"Writing effective website specification documents” by Mark Wilkinson",
+            "userGroup": "Glasgow WordPress Meetup",
+            "start": "2019-03-26 18:00",
+            "city": "Glasgow",
+            "country": "United Kingdom",
+            "latitude": 55.85918,
+            "longitude": -4.247297,
+            "url": "https://www.meetup.com/Glasgow-WordPress-Meetup/events/255764255/"
+        },
+        {
+            "name": "The Denver Drupal Meetup",
+            "userGroup": "Colorado Drupal Meetups",
+            "start": "2019-03-26 18:30",
+            "city": "Denver",
+            "country": "Colorado",
+            "latitude": 39.727577,
+            "longitude": -104.999779,
+            "url": "https://www.meetup.com/drupal-colorado/events/cjtgnyzfbjc/"
+        },
+        {
+            "name": "Memphis PHP User Group",
+            "userGroup": "Memphis PHP User Group Meetup",
+            "start": "2019-03-26 18:30",
+            "city": "Memphis",
+            "country": "Tennessee",
+            "latitude": 35.12175,
+            "longitude": -89.9402,
+            "url": "https://www.meetup.com/Memphis-PHP-Meetup/events/259336835/"
+        },
+        {
+            "name": "WordPress Meetup Hamburg",
+            "userGroup": "Hamburg WordPress Meetup",
+            "start": "2019-03-26 19:00",
+            "city": "Hamburg",
+            "country": "Germany",
+            "latitude": 53.551125,
+            "longitude": 9.933566,
+            "url": "https://www.meetup.com/Hamburg-WordPress-Meetup/events/250389998/"
+        },
+        {
+            "name": "DC PHP Beverage Subgroup (in DC)",
+            "userGroup": "DC PHP Developer's Community",
+            "start": "2019-03-26 19:00",
+            "city": "Washington",
+            "country": "District Of Columbia",
+            "latitude": 38.932014,
+            "longitude": -77.028548,
+            "url": "https://www.meetup.com/DC-PHP/events/wxvvqyzfbjc/"
+        },
+        {
+            "name": "azPHP Meetup: Composition & Traits",
+            "userGroup": "azPHP",
+            "start": "2019-03-26 19:00",
+            "city": "Phoenix",
+            "country": "Arizona",
+            "latitude": 33.440838,
+            "longitude": -112.066925,
+            "url": "https://www.meetup.com/azPHPUG/events/258005685/"
+        },
+        {
+            "name": "Como criar conteúdo para o seu blog em WordPress",
+            "userGroup": "Porto Alegre WordPress Meetup",
+            "start": "2019-03-26 19:30",
+            "city": "Porto Alegre",
+            "country": "Brazil",
+            "latitude": -30.017881,
+            "longitude": -51.19699,
+            "url": "https://www.meetup.com/wp-poa/events/257223814/"
+        },
+        {
+            "name": "Nashville PHP BBQ Lunch",
+            "userGroup": "Nashville PHP",
+            "start": "2019-03-27 11:00",
+            "city": "Nashville",
+            "country": "Tennessee",
+            "latitude": 36.159386,
+            "longitude": -86.796211,
+            "url": "https://www.meetup.com/nashvillephp/events/259334018/"
+        },
+        {
+            "name": "March Meetup",
+            "userGroup": "WordPress Zurich",
+            "start": "2019-03-27 18:30",
+            "city": "Zürich",
+            "country": "Switzerland",
+            "latitude": 47.38617,
+            "longitude": 8.52922,
+            "url": "https://www.meetup.com/WordPress-Zurich/events/259294603/"
+        },
+        {
+            "name": "PHP User Group Munich Meeting",
+            "userGroup": "PHP User Group Munich",
+            "start": "2019-03-27 18:30",
+            "city": "Munich",
+            "country": "Germany",
+            "latitude": 48.12654,
+            "longitude": 11.543132,
+            "url": "https://www.meetup.com/phpugmunich/events/254139239/"
+        },
+        {
+            "name": "1. Meetup PHPUG Stuttgart 2019",
+            "userGroup": "PHP User Group Stuttgart",
+            "start": "2019-03-27 18:30",
+            "city": "Stuttgart",
+            "country": "Germany",
+            "latitude": 48.724003,
+            "longitude": 9.111278,
+            "url": "https://www.meetup.com/PHP-User-Group-Stuttgart/events/258961133/"
+        },
+        {
+            "name": "Drupal Dublin Monthly Meet up",
+            "userGroup": "Drupal Ireland",
+            "start": "2019-03-27 19:00",
+            "city": "Dublin",
+            "country": "Ireland",
+            "latitude": 53.338467,
+            "longitude": -6.248988,
+            "url": "https://www.meetup.com/Drupal-Ireland/events/kqvfdqyzfbkc/"
+        },
+        {
+            "name": "March Meetup at Spilberg Belgium",
+            "userGroup": "Full Stack Antwerp",
+            "start": "2019-03-27 19:00",
+            "city": "Antwerpen",
+            "country": "Belgium",
+            "latitude": 51.21589,
+            "longitude": 4.4082,
+            "url": "https://www.meetup.com/fullstackantwerp/events/251367290/"
+        },
+        {
+            "name": "WordPress Meetup Berlin",
+            "userGroup": "WordPress Meetup Berlin",
+            "start": "2019-03-27 19:00",
+            "city": "Berlin",
+            "country": "Germany",
+            "latitude": 52.516766,
+            "longitude": 13.390459,
+            "url": "https://www.meetup.com/Berlin-WordPress-Meetup/events/254351414/"
+        },
+        {
+            "name": "46. Magento Stammtisch Hamburg",
+            "userGroup": "Magento Stammtisch Hamburg",
+            "start": "2019-03-27 19:00",
+            "city": "Hamburg",
+            "country": "Germany",
+            "latitude": 53.545403,
+            "longitude": 9.99911,
+            "url": "https://www.meetup.com/Magento-Stammtisch-Hamburg/events/258561941/"
+        },
+        {
+            "name": "44º Meetup WordPress Curitiba",
+            "userGroup": "Comunidade WordPress Curitiba",
+            "start": "2019-03-27 19:00",
+            "city": "Curitiba",
+            "country": "Brazil",
+            "latitude": -25.44377,
+            "longitude": -49.28819,
+            "url": "https://www.meetup.com/wpcuritiba/events/259187882/"
+        },
+        {
+            "name": "PHP Oxford meetup",
+            "userGroup": "PHP Oxford",
+            "start": "2019-03-27 19:30",
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "latitude": 51.75216,
+            "longitude": -1.261906,
+            "url": "https://www.meetup.com/PHP-Oxford/events/xrkrjqyzfbkc/"
+        },
+        {
+            "name": "Login4Tea_Reloaded",
+            "userGroup": "Bucharest Magento Meetup",
+            "start": "2019-03-28 12:00",
+            "city": "Bucharest",
+            "country": "Romania",
+            "latitude": 44.46045,
+            "longitude": 26.073603,
+            "url": "https://www.meetup.com/Bucharest-Magento-Meetup/events/cdfdqqyzfblc/"
+        },
+        {
+            "name": "WordPress Lunch and Learn",
+            "userGroup": "The WordPress RI Meetup Group - Since 2009",
+            "start": "2019-03-28 12:30",
+            "city": "Jamestown",
+            "country": "Rhode Island",
+            "latitude": 41.49759,
+            "longitude": -71.374084,
+            "url": "https://www.meetup.com/WordPressRI/events/259078478/"
+        },
+        {
+            "name": "Open Code Night",
+            "userGroup": "Louisville Software Engineering Meetup",
+            "start": "2019-03-28 18:00",
+            "city": "Louisville",
+            "country": "Kentucky",
+            "latitude": 38.257084,
+            "longitude": -85.729607,
+            "url": "https://www.meetup.com/Louisville-Software-Engineering/events/vsvpnqyzfblc/"
+        },
+        {
+            "name": "Progressive Web Apps",
+            "userGroup": "WordPress Bern",
+            "start": "2019-03-28 18:00",
+            "city": "Bern",
+            "country": "Switzerland",
+            "latitude": 46.948257,
+            "longitude": 7.442258,
+            "url": "https://www.meetup.com/WordPress-Bern/events/258366160/"
+        },
+        {
+            "name": "Drupal Show & Tell  Catch Digital",
+            "userGroup": "Drupal Show and Tell - London",
+            "start": "2019-03-28 18:30",
+            "city": "London",
+            "country": "United Kingdom",
+            "latitude": 51.522774,
+            "longitude": -0.101264,
+            "url": "https://www.meetup.com/drupal-show-and-tell/events/258902860/"
+        },
+        {
+            "name": "Netflix Video player reverse engineered && Static Site Generator for eCommerce",
+            "userGroup": "Web Engineering Düsseldorf",
+            "start": "2019-03-28 18:30",
+            "city": "Düsseldorf",
+            "country": "Germany",
+            "latitude": 51.234196,
+            "longitude": 6.796417,
+            "url": "https://www.meetup.com/Web-Engineering-Duesseldorf/events/258554012/"
+        },
+        {
+            "name": "March Meetup  Flexmail - PHP Limburg",
+            "userGroup": "PHP Limburg BE",
+            "start": "2019-03-28 18:30",
+            "city": "Genk",
+            "country": "Belgium",
+            "latitude": 50.96407,
+            "longitude": 5.484661,
+            "url": "https://www.meetup.com/PHP-Limburg-BE/events/259360243/"
+        },
+        {
+            "name": "Triangle Drupal meetup",
+            "userGroup": "Triangle Drupal Users' Group",
+            "start": "2019-03-28 18:30",
+            "city": "Durham",
+            "country": "North Carolina",
+            "latitude": 35.995602,
+            "longitude": -78.902153,
+            "url": "https://www.meetup.com/triDUG/events/258889395/"
+        },
+        {
+            "name": "WordPress e E-learning: il progetto della community biellese",
+            "userGroup": "WordPress Meetup Biella",
+            "start": "2019-03-28 18:30",
+            "city": "Biella",
+            "country": "Italy",
+            "latitude": 45.571903,
+            "longitude": 8.05906,
+            "url": "https://www.meetup.com/WordPress-Meetup-Biella/events/259398184/"
+        },
+        {
+            "name": "VIII krakowskie spotkanie entuzjastów Magento!",
+            "userGroup": "Magento Lite Sessions - Kraków",
+            "start": "2019-03-28 18:30",
+            "city": "Kraków",
+            "country": "Poland",
+            "latitude": 50.051186,
+            "longitude": 19.943405,
+            "url": "https://www.meetup.com/Magento-Lite-Sessions-Krakow/events/259291642/"
+        },
+        {
+            "name": "Meetup marts",
+            "userGroup": "WordPress Meetup Viborg",
+            "start": "2019-03-28 18:30",
+            "city": "Viborg",
+            "country": "Denmark",
+            "latitude": 56.45259,
+            "longitude": 9.40808,
+            "url": "https://www.meetup.com/WordPress-Meetup-Viborg/events/258066579/"
+        },
+        {
+            "name": "Magento Meetup Tokyo",
+            "userGroup": "Magento Meetup Tokyo",
+            "start": "2019-03-28 19:00",
+            "city": "Tokyo",
+            "country": "Japan",
+            "latitude": 35.741432,
+            "longitude": 139.761292,
+            "url": "https://www.meetup.com/Magento-Meetup-Tokyo/events/vvvnhnyzfblc/"
+        },
+        {
+            "name": "Meetup PHPRio",
+            "userGroup": "PHP Rio",
+            "start": "2019-03-28 19:00",
+            "city": "Rio de Janeiro",
+            "country": "Brazil",
+            "latitude": -22.910881,
+            "longitude": -43.173996,
+            "url": "https://www.meetup.com/PHP-Rio/events/258445068/"
+        },
+        {
+            "name": "Triff die Drupal Community in Karlsruhe",
+            "userGroup": "Drupal Karlsruhe",
+            "start": "2019-03-28 19:00",
+            "city": "Karlsruhe",
+            "country": "Germany",
+            "latitude": 49.005318,
+            "longitude": 8.430824,
+            "url": "https://www.meetup.com/Drupal-Karlsruhe/events/dlhskqyzfblc/"
+        },
+        {
+            "name": "Meetup by Platform.sh",
+            "userGroup": "PHP Ghent",
+            "start": "2019-03-28 19:00",
+            "city": "Gent",
+            "country": "Belgium",
+            "latitude": 51.041836,
+            "longitude": 3.726551,
+            "url": "https://www.meetup.com/phpgent/events/259276329/"
+        },
+        {
+            "name": "8° PrestaShop Meetup in Hong Kong",
+            "userGroup": "PrestaShop - Hong Kong / Greater Bay Area China",
+            "start": "2019-03-28 19:00",
+            "city": "Hong Kong",
+            "country": "Hong Kong",
+            "latitude": 22.277952,
+            "longitude": 114.18476,
+            "url": "https://www.meetup.com/PrestaShop-Hong-Kong-Ecommerce-Meetup/events/259384061/"
+        },
+        {
+            "name": "Creating a Progressive Web App with WordPress",
+            "userGroup": "Lagos WordPress Community",
+            "start": "2019-03-29 10:00",
+            "city": "Ikeja",
+            "country": "Nigeria",
+            "latitude": 6.63719,
+            "longitude": 3.358945,
+            "url": "https://www.meetup.com/Lagos-WordPress-Meetup-Group/events/258497958/"
+        },
+        {
+            "name": "South London Drupal Co-working Day",
+            "userGroup": "Drupal London Community",
+            "start": "2019-03-29 10:00",
+            "city": "London",
+            "country": "United Kingdom",
+            "latitude": 51.47372,
+            "longitude": -0.114266,
+            "url": "https://www.meetup.com/Drupal-London-Communit/events/259087638/"
+        },
+        {
+            "name": "Verjaardagsmeetup (we worden 5 jaar 🎉)",
+            "userGroup": "PHP-WVL",
+            "start": "2019-03-29 18:30",
+            "city": "Brugge",
+            "country": "Belgium",
+            "latitude": 51.192894,
+            "longitude": 3.184003,
+            "url": "https://www.meetup.com/php-wvl/events/259357689/"
+        },
+        {
+            "name": "羽田 WordPress Meetup (2019年3月)",
+            "userGroup": "Tokyo WordPress Meetup",
+            "start": "2019-03-30 10:00",
+            "city": "Tōkyō-to",
+            "country": "Japan",
+            "latitude": 35.558907,
+            "longitude": 139.72377,
+            "url": "https://www.meetup.com/Tokyo-WordPress-Meetup/events/259212769/"
+        },
+        {
+            "name": "The Art of Woo: Scaling up e-Commerce with WooCommerce",
+            "userGroup": "WordPress PortHarcourt Meetup",
+            "start": "2019-03-30 12:00",
+            "city": "Nigeria",
+            "country": "Nigeria",
+            "latitude": 9.081999,
+            "longitude": 8.675277,
+            "url": "https://www.meetup.com/WP-PortHarcourt/events/254916153/"
+        },
+        {
+            "name": "Eldoret Wordpress MeetUp",
+            "userGroup": "Eldoret WordPress Meetup",
+            "start": "2019-03-30 16:30",
+            "city": "Eldoret",
+            "country": "Kenya",
+            "latitude": 0.51999998092651,
+            "longitude": 35.270000457764,
+            "url": "https://www.meetup.com/Eldoret-WordPress-Meetup/events/vbpmwmyzfbnc/"
+        },
+        {
+            "name": "Aberdeen PHP User Group monthly meetup",
+            "userGroup": "Aberdeen PHP User Group monthly meetup",
+            "start": "2019-03-06 18:30",
+            "city": "Aberdeen",
+            "country": "United Kingdom",
+            "latitude": 57.1457,
+            "longitude": -2.10621,
+            "url": "https://opentechcalendar.co.uk/event/7906-aberdeen-php-user-group-monthly-meetup"
+        },
+        {
+            "name": "Sheffield PHP - Object Reorientation",
+            "userGroup": "Sheffield PHP - Object Reorientation",
+            "start": "2019-03-21 18:00",
+            "city": "Sheffield",
+            "country": "United Kingdom",
+            "latitude": 53.3775,
+            "longitude": -1.46791,
+            "url": "https://opentechcalendar.co.uk/event/8106-sheffield-php-object-reorientation"
+        }
+    ]
+}
